@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "University of Wollongong"
+  organization = "Exchange program"
   organization_url = "https://www.uow.edu.au/"
-  title = "Exchange program"
+  title = "University of Wollongong"
   url = ""
   certificate_url = "https://www.uow.edu.au/"
   date_start = "2018-10-01"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Technion – Israel Institute of Technology"
+  organization = "Summer School"
   organization_url = "https://www.technion.ac.il/en/home-2/"
-  title = "Summer School"
+  title = "Technion – Israel Institute of Technology"
   url = ""
   certificate_url = "https://www.technion.ac.il/en/home-2/"
   date_start = "2018-07-15"
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "Harbin Institute of Technology"
+  organization = "Summer School"
   organization_url = "http://en.hit.edu.cn/"
-  title = "Summer School"
+  title = "Harbin Institute of Technology"
   url = ""
   certificate_url = "http://en.hit.edu.cn/c"
   date_start = "2018-07-01"
@@ -49,9 +49,9 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]
-  organization = "National Chiao Tung University"
+  organization = "Summer School"
   organization_url = "https://www.nctu.edu.tw/en/"
-  title = "Summer School"
+  title = "National Chiao Tung University"
   url = ""
   certificate_url = "https://www.nctu.edu.tw/en/"
   date_start = "2017-07-01"
