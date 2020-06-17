@@ -66,6 +66,6 @@ user_groups:
 - Visitors
 ---
 
-Xiao Xiao obtained his B.S. in Materials Science & Engineering from Beihang University(BUAA), Beijing, China. He conducted research under the supervision of Professor Lei Jiang in the Laboratory of Bio-inspired Smart Interface Science, where his research focused on the innovation of functional materials and polymers for energy and sensing applications. Xiao has already published 4 journal articles and 2 of them are as the first author in ACS Nano, Nano letters. At his leisure, he likes playing badminton, swimming, and traveling.
+Xiao Xiao obtained his B.S. in Materials Science & Engineering from Beihang University(BUAA), Beijing, China. He conducted research under the supervision of Professor Lei Jiang in the Laboratory of Bio-inspired Smart Interface Science, where his research focused on the innovation of functional materials and polymers for energy and sensing applications. Xiao has already published 5 journal articles and 2 of them are as the first author in ACS Nano, Nano letters. At his leisure, he likes playing badminton, swimming, and traveling.
 
-肖潇本科毕业于北京航空航天大学，现在是加州大学洛杉矶分校的一名研究生。
+肖潇是加州大学洛杉矶分校的一名博士研究生，本科毕业于北京航空航天大学。
