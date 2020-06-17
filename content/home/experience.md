@@ -22,12 +22,12 @@ date_format = "Jan 2006"
   company = "University College London"
   company_url = ""
   location = "United Kingdom"
-  date_start = "2019-07-01"
-  date_end = ""
+  date_start = "2019-06-01"
+  date_end = "2019-09-01"
   description = """
-  Bio-inspired Membranes for Water Purification and Bio-separation
+  Supervisor: Dr. Zheyi Meng, Prof. Marc-Olivier Coppens
   
-  * Analysing
+  * Bio-inspired Membranes for Water Purification and Bio-separation
   """
 
 [[experience]]
@@ -35,8 +35,24 @@ date_format = "Jan 2006"
   company = "University of Wollongong"
   company_url = ""
   location = "Australia"
-  date_start = "2019-07-01"
-  date_end = ""
-  description = """Hydrogels Electrolyte for Flexible Zn Ion Batteries."""
-
+  date_start = "2019-01-01"
+  date_end = "2019-06-01"
+  description = """
+  Supervisor: Dr. Weijie Li, Prof. Shi Xue Dou
+  
+  * Hydrogels Electrolyte for Flexible Zn Ion Batteries.
+  """
+  
+[[experience]]
+  title = "Research Assitant"
+  company = "Chinese Academy of Sciences"
+  company_url = ""
+  location = "China"
+  date_start = "2017-01-01"
+  date_end = "2019-01-01"
+  description = """
+  Supervisor: Dr. Cunming Yu, Prof. Lei Jiang
+  
+  * Bio-inspired Functional Materials and Interface.
+  """
 +++
