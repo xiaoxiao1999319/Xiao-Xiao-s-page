@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student in Bioengineering
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: UCLA
-  url: "https://www.ucla.edu/"
+- name: UCLA Bioengineering
+  url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include .
