@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Xiao Xiao's website"
+title = "Welcome to Xiao Xiao's website!"
 subtitle = ""
 
 [design]
@@ -50,9 +50,8 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to **Xiao Xiao**'s website!
 
-欢迎来到**肖潇**的个人主页
+欢迎来到 **肖潇** 的个人主页
 
 {{% alert note %}}
 This homepage is now under construction
