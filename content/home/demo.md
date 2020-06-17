@@ -53,10 +53,8 @@ subtitle = ""
 Welcome to **Xiao Xiao**'s website!
 欢迎来到**肖潇**的个人主页
 
-# For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
-
 {{% alert note %}}
 This homepage is now under construction
 
-**If you have any suggestion or problem, please contact to me**
+**If you have any suggestion or problem, please contact to [me](https://sourcethemes.com/academic/docs/install/#demo-content)**
 {{% /alert %}}
