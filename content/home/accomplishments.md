@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = "2019-06-01"
-  description = "{{% staticref "certificates/UOW.png" %}}Download my certificates{{% /staticref %}}"
+  description = "{% staticref "certificates/UOW.png" %}}Download my certificates{{% /staticref %}"
   
 [[item]]
   organization = "Summer School"
