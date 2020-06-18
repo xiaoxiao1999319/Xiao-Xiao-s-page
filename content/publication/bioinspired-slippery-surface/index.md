@@ -1,5 +1,5 @@
 ---
-title: "Bioinspired Slippery Cone for Controllable Manipulation of Gas Bubbles in Low-Surface-Tension Environment"
+title: "Bioinspired Pressure-Tolerant Asymmetric Slippery Surface for Continuous Self-Transport of Gas Bubbles in Aqueous Environment"
 authors:
 - C. Zhangadmin
 - B. Zhang
