@@ -35,8 +35,8 @@ height = "300px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Welcome to Xiao Xiao's website!"
-  content = "欢迎来到 **肖潇** 的个人主页 :smile:"
+  title = "This website is still under construction!"
+  content = "If you have any suggestion or problem, plz contact with me"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +44,8 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
 [[item]]
-  title = "Welcome to Xiao Xiao's website!"
-  content = "欢迎来到 **肖潇** 的个人主页 :smile:"
+  title = "特大喜讯，肖潇的主页上线啦"
+  content = "用心做网站，用脚做科研系列(bushi)"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
