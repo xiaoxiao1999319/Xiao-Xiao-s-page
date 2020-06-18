@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-01"
   date_end = "2019-06-01"
-  description = "{% staticref "certificates/UOW.png" %}}Download my certificates{{% /staticref %}"
+  description = ""
   
 [[item]]
   organization = "Summer School"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-07-15"
   date_end = "2018-08-28"
-  description = "{{% staticref "certificates/Technion.png" %}}Download my certificates{{% /staticref %}}"
+  description = ""
   
 [[item]]
   organization = "Summer School"
@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2018-07-01"
   date_end = "2018-07-15"
-  description = "{{% staticref "certificates/HIT.png" %}}Download my certificates{{% /staticref %}}"
+  description = ""
   
 [[item]]
   organization = "Summer School"
@@ -56,5 +56,5 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2017-07-01"
   date_end = "2017-08-01"
-  description = "{{% staticref "certificates/NCTU.png" %}}Download my certificates{{% /staticref %}}"
+  description = ""
 +++
