@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** is a PhD student of UCLA Bioengineering, where he conducts research under the supervision of [Professor Jun Chen](https://samueli.ucla.edu/people/jun-chen/) in the [Wearable Electronics Research Group](https://www.junchenlab.com). Xiao obtained his B.S. in Materials Science & Engineering from Beihang University(BUAA), Beijing, China. He has already published 5 journal articles and 2 of them are as the first author in ACS Nano and Nano letters. At his leisure, he likes playing badminton, swimming, and traveling.
+**Xiao Xiao** is a PhD student of UCLA Bioengineering, where he conducts research under the supervision of [Professor Jun Chen](https://samueli.ucla.edu/people/jun-chen/) in the [Wearable Electronics Research Group](https://www.junchenlab.com). Xiao obtained his B.S. in Materials Science & Engineering from [Beihang University](https://ev.buaa.edu.cn/), Beijing, China. He has already published 5 journal articles and 2 of them are as the first author in ACS Nano and Nano letters. At his leisure, he likes playing badminton, swimming, and traveling.
 
-**肖潇** 是加州大学洛杉矶分校(UCLA)可穿戴生物电子课题组的一名博士研究生，本科毕业于北京航空航天大学(BUAA)材料科学与工程学院。
+**肖潇** 是加州大学洛杉矶分校(UCLA)的一名博士研究生，本科毕业于北京航空航天大学(BUAA)材料科学与工程学院。
