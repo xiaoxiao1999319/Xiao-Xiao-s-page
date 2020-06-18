@@ -11,13 +11,13 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = ""
+height = "500px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome to Xiao Xiao's website! :smile:"
-  content = "欢迎来到 **肖潇** 的个人主页"
+  title = "Welcome to Xiao Xiao's website!"
+  content = "欢迎来到 **肖潇** 的个人主页 :smile:"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -35,8 +35,8 @@ height = ""
   cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Welcome to Xiao Xiao's website! :smile:"
-  content = "欢迎来到 **肖潇** 的个人主页"
+  title = "Welcome to Xiao Xiao's website!"
+  content = "欢迎来到 **肖潇** 的个人主页 :smile:"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
@@ -44,8 +44,8 @@ height = ""
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = "Welcome to Xiao Xiao's website!"
+  content = "欢迎来到 **肖潇** 的个人主页 :smile:"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
