@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments" # Accomplish&shy;ments
 subtitle = ""
 
 # Date format
@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "University of Wollongong"
   url = ""
   certificate_url = "https://www.uow.edu.au/"
-  date_start = "2018-10-01"
-  date_end = ""
+  date_start = "2019-01-01"
+  date_end = "2019-06-01"
   description = ""
   
 [[item]]
