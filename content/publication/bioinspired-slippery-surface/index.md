@@ -44,7 +44,7 @@ summary: We developed a pressure-tolerant asymmetric slippery surface with bio-i
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
