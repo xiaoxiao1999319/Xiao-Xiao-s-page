@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .
+bio: My research interests include wearable bioelectronics, bio-inspired materials, and smart textiles.
 
 interests:
 - Wearable bioelectronics
