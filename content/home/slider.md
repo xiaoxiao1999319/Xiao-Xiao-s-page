@@ -16,8 +16,8 @@ height = ""
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Hello"
-  content = "I am center aligned :smile:"
+  title = "Welcome to Xiao Xiao's website! :smile:"
+  content = "欢迎来到 **肖潇** 的个人主页"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -42,12 +42,7 @@ height = ""
   overlay_color = "#555"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-{{% alert note %}}
-This homepage is now under construction
-
-**If you have any suggestion or problem, please contact to [me](https://sourcethemes.com/academic/docs/install/#demo-content)**
-{{% /alert %}}
-
+ 
 [[item]]
   title = "Right"
   content = "I am right aligned :smile:"
