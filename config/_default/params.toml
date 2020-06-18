@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "xiaoxiao1999@ucla.edu"
+email = "992154379@qq.com"
 phone = "86-156-5257-6276"
 
 # Address
@@ -97,7 +97,7 @@ address = {street = "420 Westwood Plaza", city = "Los Angeles", region = "CA", p
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.0668", longitude = "-118.4453"}
+coordinates = {latitude = "34.0673", longitude = "-118.4453"}
 
 # Directions for visitors to locate you.
 directions = "UCLA Engineering V"
