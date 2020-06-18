@@ -20,11 +20,11 @@ author_notes:
 - "Corresponding author"
 - ""
 - ""
-date: "2019-11-6T00:00:00Z"
+date: "2019-11-06T00:00:00Z"
 doi: "https://doi.org/10.1039/C9GC03254A"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-11-6T00:00:00Z"
+publishDate: "2019-11-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
