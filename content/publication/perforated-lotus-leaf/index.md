@@ -11,8 +11,8 @@ authors:
 - R. Ras
 - Lei Jiang
 author_notes:
-- ""
-- ""
+- "Equal contribution"
+- "Equal contribution"
 - ""
 - ""
 - ""
