@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research experience"
 subtitle = ""
 
 # Date format for experience
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Supervisor: Prof. Jun Chen
   
-  * Wearable bioelectronics.
+  * Smart Textiles for Energy Applications.
   """
   
 [[experience]]
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   description = """
   Supervisor: Dr. Weijie Li, Prof. Shi Xue Dou
   
-  * Hydrogels Electrolyte for Flexible Zn Ion Batteries.
+  * Hydrogel Electrolytes for Flexible Zn Ion Batteries.
   """
   
 [[experience]]
