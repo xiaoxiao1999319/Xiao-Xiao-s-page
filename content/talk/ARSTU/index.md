@@ -1,27 +1,27 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: The Russian-Chinese Arctic Forum of the Young Scientists
+event: ASRTU Meeting in Yakutsk
+event_url: 
 
 location: Source Themes HQ
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 58 Belinsky
+  city: NEFU
+  region: Yakutsk
+  postcode: ''
+  country: Russian Federation
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Xiao Xiao gave a talk in the section of **Ecological-Climatic and Chemical Issues of a Cryolithic Zone**.
+abstract: "Xiao Xiao gave a talk in the section of **Ecological-Climatic and Chemical Issues of a Cryolithic Zone**"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2018-09-14T13:00:00Z"
+date_end: "2018-09-21T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-09-14T00:00:00Z"
 
 authors: []
 tags: []
@@ -30,14 +30,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -62,14 +62,3 @@ projects:
 math: true
 ---
 
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
