@@ -36,11 +36,11 @@ height = "300px"
 
 [[item]]
   title = "This website is under construction!"
-  content = "If you have any suggestion, plz contact with me"
+  content = "If you have any suggestion, plz contact me"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
+  overlay_img = "ucla.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
 [[item]]
