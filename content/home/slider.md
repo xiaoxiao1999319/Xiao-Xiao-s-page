@@ -44,8 +44,8 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
 [[item]]
-  title = "Good News: Xiao's Website is online!"
-  content = "特大喜讯：肖潇的主页上线啦！"
+  title = "Xiao's Website is online!"
+  content = "肖潇的主页上线啦！"
   align = "right"
 
   overlay_color = "#333"  # An HTML color value.
