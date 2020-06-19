@@ -11,8 +11,8 @@ address:
   postcode: '100191'
   country: P.R. China
 
-summary: Xiao Xiao made an oral presentation in the Forum, and won the honor of excellent thesis.
-abstract: "Xiao Xiao made an oral presentation in the Forum, and won the honor of excellent thesis."
+summary: Xiao Xiao made an oral presentation in the **Materials Undergraduate Academic Forum of Capital Universities**, and won the honor of excellent thesis.
+abstract: "Xiao Xiao made an oral presentation in the **Materials Undergraduate Academic Forum of Capital Universities**, and won the honor of excellent thesis."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
 links:
