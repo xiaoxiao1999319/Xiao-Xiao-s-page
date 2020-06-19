@@ -29,9 +29,10 @@ education:
   courses:
   - course: PhD student in bioengineering
     institution: University of California, Los Angeles
+    url: "https://www.ucla.edu/"
     year: Now
   - course: BSc in Materials Science ＆ Engineering
-    institution: Beihang University]
+    institution: Beihang University
     year: 2020
 
 # Social/Academic Networking
