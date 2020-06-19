@@ -44,9 +44,9 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Exchange student"
-  company = "University of Wollongong"
-  company_url = "https://www.uow.edu.au/"
+  title = "Research Assistant"
+  company = "Australian Institute for Innovative Materials"
+  company_url = "https://www.uow.edu.au/research-and-innovation/our-research/research-institutes-and-facilities/australian-institute-for-innovative-materials/"
   location = "Australia"
   date_start = "2019-01-01"
   date_end = "2019-06-01"
