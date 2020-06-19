@@ -44,7 +44,7 @@ height = "300px"
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
 [[item]]
-  title = "Xiao's Website opens!"
+  title = "Xiao Xiao's website opens!"
   content = "肖潇的主页上线啦！"
   align = "right"
 
