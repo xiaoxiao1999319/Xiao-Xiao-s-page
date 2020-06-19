@@ -11,14 +11,14 @@ address:
   postcode: ''
   country: Russian Federation
 
-summary: Xiao Xiao gave a talk in the section of **Ecological-Climatic and Chemical Issues of a Cryolithic Zone**.
-abstract: "Xiao Xiao gave a talk in the section of **Ecological-Climatic and Chemical Issues of a Cryolithic Zone**"
+summary: Xiao Xiao made an oral presentation in the section of **Ecological-Climatic and Chemical Issues of a Cryolithic Zone**.
+abstract: "Xiao Xiao made an oral presentation in the section of **Ecological-Climatic and Chemical Issues of a Cryolithic Zone**"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2018-09-14T13:00:00Z"
-date_end: "2018-09-21T15:00:00Z"
-all_day: false
+date: "2018-09-14T00:00:00Z"
+date_end: "2018-09-21T00:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2018-09-14T00:00:00Z"
