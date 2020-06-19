@@ -3,7 +3,7 @@ title: The Russian-Chinese Arctic Forum of the Young Scientists
 event: ASRTU Meeting in Yakutsk
 event_url: 
 
-location: Source Themes HQ
+location: Room 118, Floor 1
 address:
   street: 58 Belinsky
   city: NEFU
