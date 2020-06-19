@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD student in bioengineering
-    institution: [University of California, Los Angeles](https://www.ucla.edu/)
+    institution: University of California, Los Angeles
     year: Now
   - course: BSc in Materials Science ＆ Engineering
-    institution: [Beihang University](https://ev.buaa.edu.cn/)
+    institution: Beihang University]
     year: 2020
 
 # Social/Academic Networking
