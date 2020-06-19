@@ -1,6 +1,6 @@
 ---
-title: Materials Undergraduate Academic Forum of Capital Universities
-event: Materials Undergraduate Academic Forum of Capital Universities
+title: Materials Undergraduate Academic Forum of Beijing Universities
+event: 2nd Materials Undergraduate Academic Forum of Beijing Universities
 event_url: 
 
 location: Lecture Hall 2
@@ -12,7 +12,7 @@ address:
   country: P.R. China
 
 summary: Xiao Xiao made an oral presentation entitiled **Bio-inspired Slippery Surface for Controllable Manipulation of Gas Bubbles in Liquid Environment**, and won the honor of excellent thesis.
-abstract: "Xiao Xiao made an oral presentation entitiled **Bio-inspired Slippery Surface for Controllable Manipulation of Gas Bubbles in Liquid Environment**, and won the honor of excellent thesis."
+abstract: "Xiao Xiao made an oral presentation entitiled **Bio-inspired Slippery Surface for Controllable Manipulation of Gas Bubbles in Liquid Environment**, and won the honor of Excellent Thesis."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
