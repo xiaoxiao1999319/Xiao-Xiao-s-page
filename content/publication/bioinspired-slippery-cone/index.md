@@ -7,7 +7,7 @@ authors:
 - Y. Zhang
 - G. Liu
 - M. Cao
-- Yu Cunming*
+- Cunming Yu*
 - Lei Jiang
 author_notes:
 - ""
@@ -39,7 +39,7 @@ abstract: Manipulating bubbles in surfactant solutions or oil mediums is of vita
 summary: We developed a method to manipulating bubbles in surfactant solutions or oil mediums
 
 tags:
-- Source Themes
+- Bio-inspired
 featured: true
 
 # links:
