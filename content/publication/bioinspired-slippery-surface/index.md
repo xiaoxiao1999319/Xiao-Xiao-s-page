@@ -1,7 +1,7 @@
 ---
 title: "Bioinspired Pressure-Tolerant Asymmetric Slippery Surface for Continuous Self-Transport of Gas Bubbles in Aqueous Environment"
 authors:
-- C. Zhangadmin
+- C. Zhang
 - B. Zhang
 - H. Ma
 - Z. Li
@@ -19,8 +19,8 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding author"
-- "Corresponding author"
+- "Corresponding Author"
+- "Corresponding Author"
 - ""
 date: "2018-01-18T00:00:00Z"
 doi: "https://doi.org/10.1021/acsnano.8b00192"
