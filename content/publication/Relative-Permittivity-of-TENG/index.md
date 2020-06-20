@@ -2,7 +2,7 @@
 title: "Manipulating Relative Permittivity for High-Performance Wearable Triboelectric Nanogenerator"
 authors:
 - L. Jin†
-- admin†
+- Xiao Xiao(肖潇)†
 - W. Deng
 - A. Nashalian
 - D. He
