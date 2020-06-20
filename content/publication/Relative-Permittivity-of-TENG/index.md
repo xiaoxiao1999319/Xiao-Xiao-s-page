@@ -1,7 +1,7 @@
 ---
 title: "Manipulating Relative Permittivity for High-Performance Wearable Triboelectric Nanogenerator"
 authors:
-- L. Jin
+- L. Jin†
 - admin
 - W. Deng
 - A. Nashalian
@@ -26,8 +26,8 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding author"
-- "Corresponding author"
+- "Corresponding Author"
+- "Corresponding Author"
 date: "2020-06-20T00:00:00Z"
 doi: ""
 
