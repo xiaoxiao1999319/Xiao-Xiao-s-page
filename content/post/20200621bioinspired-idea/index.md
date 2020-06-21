@@ -16,7 +16,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Examples of bio-inspired strategies: (a) Saber-toothed tiger; (b) Sharp spears resembling beast-toothed teeth; (c) Fishes that can swing freely through the water with their fins swinging; (d) Oars similar to fins; (e) Lotus leaves that "sludge without staining"; (f) self-cleaning glass'
+  caption: 'Examples of bio-inspired strategies: (a) "King of the sea" shark, (b) Rattlesnake with infrared induction, (c) Bat using ultrasonic positioning, (d) Swimsuit with shark skin structure, (e) Rattlesnake missile with infrared tracking function, (f ) Radar using electromagnetic wave positioning [于存明：2016中国科学院大学博士论文]'
   focal_point: ""
   preview_only: false
 
