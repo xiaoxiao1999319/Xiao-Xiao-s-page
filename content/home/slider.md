@@ -17,7 +17,7 @@ height = "300px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to Xiao Xiao's website!"
-  content = "欢迎来到 **肖潇** 的个人主页 :smile:"
+  content = "欢迎来到 **肖潇** 的个人主页!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
