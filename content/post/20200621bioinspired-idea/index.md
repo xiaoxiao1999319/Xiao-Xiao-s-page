@@ -4,6 +4,7 @@ subtitle: 'A bio-inspired strategy for addressing the key issues in future human
 summary: Written for *Nature*'s 150th anniversary.
 authors:
 - admin
+- Yuheng Zhang
 
 date: "2020-06-21T00:00:00Z"
 lastmod: "2020-06-21T00:00:00Z"
