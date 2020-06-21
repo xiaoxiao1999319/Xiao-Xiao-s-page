@@ -1,7 +1,7 @@
 ---
-title: 'Learning from nature: A bio-inspired strategy for addressing the key issues in future human development'
-subtitle: 'This article was written for *Nature*'s 150th anniversary'
-summary: This article was written for *Nature*'s 150th anniversary.
+title: 'Learning From Nature'
+subtitle: 'A bio-inspired strategy for addressing the key issues in future human development'
+summary: Written for *Nature*'s 150th anniversary.
 authors:
 - admin
 
@@ -27,6 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
 Have you ever looked to the sky and wondered why birds can fly? Or perhaps why the leaves of cacti are needle like<sup>1,2</sup>? After billions of years of evolution, natural species have developed intriguing survival skills to adapt to cruel environments. A few more examples: shark scales reduce water resistance allowing the shark to swim up to 60 km/h; bats emit ultrasonic waves to locate targets, assisting them when hunting in the dark; and the lotus leaf has a special microstructure that allows it to keep clean despite growing in sullage<sup>3-6</sup>.
 
 While this year marks the 150th anniversary of the founding of Nature, human beings have been studying nature for far more than 150 years. From animal teeth to spears, fish fins to paddles, humans have studied biology not only to satisfy their curiosity but, more importantly, to learn from it to develop technology. Nowadays, people draw inspiration from nature to create things such as a shark-skin swimsuit that increases swimming speeds, a bat-inspired sonar to locate targets, and self-cleaning clothes that are mimic lotus leaves<sup>4,7</sup>. These ideas, utilizing biological methods and natural systems to design modern technology or engineering, are so-called bio-inspired or bionic strategies. Nature’s wisdom is endless, and many issues faced by humanity have been skilfully solved using nature’s mechanisms. Herein, the question is, what future issues can humanity address using bionic strategies?
