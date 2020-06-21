@@ -68,3 +68,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+Click [here]({{< ref "/talk/_index.md" >}}) to see all talks.
+{{% /alert %}}
