@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-[SEE ALL POSTS]({{< ref "/post/_index.md" >}}).
+Click [here]({{< ref "/post/_index.md" >}}) to see all posts.
 {{% /alert %}}
