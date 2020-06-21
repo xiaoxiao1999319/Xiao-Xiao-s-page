@@ -36,7 +36,7 @@ height = "300px"
 
 [[item]]
   title = "Harvesting energy from human body"
-  content = "*Nano Letters*: Manipulating Relative Permittivity for High-Performance Wearable TENG"
+  content = "*Nano Letters*: A High-Performance Wearable TENG"
   align = "left"
   cta_label = "Get to know"
   cta_url = "https://xiao-xiao.tech/publication/relative-permittivity-of-teng/"
