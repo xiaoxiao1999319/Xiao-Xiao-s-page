@@ -16,7 +16,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Examples of bio-inspired strategies: (a) Saber-toothed tiger; (b) Sharp spears resembling beast-toothed teeth; (c) Fishes that can swing freely through the water with their fins swinging; (d) Oars similar to fins; (e) Lotus leaves that "sludge without staining"; (f) self-cleaning glass'
   focal_point: ""
   preview_only: false
 
