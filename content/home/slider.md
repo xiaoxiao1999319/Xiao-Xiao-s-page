@@ -35,8 +35,8 @@ height = "300px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Harvesting Energy Around Human Body"
-  content = "*Nano Letters*: A high-performance wearable TENG"
+  title = "Biomechanical Energy Harvester"
+  content = "*Nano Letters*: a high-performance wearable TENG"
   align = "left"
   cta_label = "Get to know"
   cta_url = "https://xiao-xiao.tech/publication/relative-permittivity-of-teng/"
