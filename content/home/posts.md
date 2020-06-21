@@ -66,3 +66,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+{{% alert note %}}
+[SEE ALL POSTS]({{< ref "/post/_index.md" >}}).
+{{% /alert %}}
