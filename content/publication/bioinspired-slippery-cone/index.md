@@ -40,6 +40,7 @@ summary: We developed a method to manipulating bubbles in surfactant solutions o
 
 tags:
 - Bio-inspired
+- slippery 
 featured: true
 
 # links:
