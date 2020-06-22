@@ -40,10 +40,14 @@ publication_short: ""
 
 abstract: Biosurfaces with geometry-gradient structures or special wettabilities demonstrate intriguing performance in manipulating the behaviors of versatile fluids. By mimicking natural species, that is, the cactus spine with a shape-gradient morphology and the Picher plant with a lubricated inner surface, we have successfully prepared an asymmetric slippery surface by following the processes of CO2-laser cutting, superhydrophobic modification, and the fluorinert infusion. The asymmetric morphology will cause the deformation of gas bubbles and subsequently engender an asymmetric driven force on them. Due to the infusion of fluorinert, which has a low surface energy (∼16 mN/m, 25 °C) and an easy fluidic property (∼0.75 cP, 25 °C), the slippery surface demonstrates high adhesive force (∼300 μN) but low friction force on the gas bubbles. Under the cooperation of the asymmetric morphology and fluorinert infused surface, the fabricated asymmetric slippery surface is applicable to the directional and continuous bubble delivery in an aqueous environment. More importantly, due to the hard-compressed property of fluorinert, the asymmetric slippery surface is facilitated with distinguished bubble transport capability even in a pressurized environment (∼0.65 MPa), showing its feasibility in practical industrial production. In addition, asymmetric slippery surfaces with a snowflake-like structure and a star-shaped structure were successfully fabricated for the real-world applications, both of which illustrated reliable performances in the continuous generation, directional transportation, and efficient collection of CO2 and H2 microbubbles.
 # Summary. An optional shortened abstract.
-summary: We developed a pressure-tolerant asymmetric slippery surface with bio-inspired method.
+summary: We developed a pressure-tolerant asymmetric slippery surface using bio-inspired method.
 
 tags:
-- Source Themes
+- asymmetric slippery surface
+- gas bubble
+- pressure-tolerant
+- continuous and directional transport
+- water electrolysis
 featured: false
 
 # links:
