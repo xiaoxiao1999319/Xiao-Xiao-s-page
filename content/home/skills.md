@@ -13,12 +13,23 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-
+[[feature]]
+  icon = "inspire"
+  icon_pack = "ai"
+  name = "Synthesis ＆ Design"
+  description = "Surface modification, polymerization, electrochemical reaction, and so on"  
+  
+[[feature]]
+  icon = "camera-retro"
+  icon_pack = "fas"
+  name = "Instrument operation"
+  description = "High speed camera, SEM, XRD, Micro-CT, TGA, and so on"
+  
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Programming ＆ Simulation"
-  description = "Python, COMSOL, Gaussian and so on"
+  description = "Python, COMSOL, Gaussian, and so on"
   
 [[feature]]
   icon = "chart-line"
@@ -26,18 +37,10 @@ subtitle = ""
   name = "Data processing"
   description = "Designing experiments, writing papers, oral presentation"  
   
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Instrument operation"
-  description = "High speed camera, SEM, XRD, Micro-CT, TGA and so on"
+
 
 # Uncomment to use emoji icons.
-[[feature]]
-  icon = ":smile:"
-  icon_pack = "emoji"
-  name = "Synthesis ＆ Design"
-  description = "Surface modification, polymerization, electrochemical reaction and so on"  
+
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
