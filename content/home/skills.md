@@ -17,27 +17,27 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Python"
-  description = "90%"
+  name = "Programming ＆ Simulation"
+  description = "Python, COMSOL, Gaussian and so on"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data processing"
+  description = "Designing experiments, writing papers, oral presentation"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Instrument operation"
+  description = "High speed camera, SEM, XRD, Micro-CT, TGA and so on"
 
 # Uncomment to use emoji icons.
 [[feature]]
   icon = ":smile:"
   icon_pack = "emoji"
-  name = "Emojiness"
-  description = "100%"  
+  name = "Synthesis ＆ Design"
+  description = "Surface modification, polymerization, electrochemical reaction and so on"  
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
