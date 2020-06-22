@@ -1,8 +1,8 @@
 ---
 title: "Manipulating Relative Permittivity for High-Performance Wearable Triboelectric Nanogenerator"
 authors:
-- L. Jin†
-- Xiao Xiao(肖潇)†
+- L. Jin
+- admin
 - W. Deng
 - A. Nashalian
 - D. He
@@ -44,9 +44,9 @@ publication_types: ["2"]
 publication: "*Nano Letters*"
 publication_short: ""
 
-abstract: As the world marches into the era of the Internet of Things (IoT), the practice of human health care is on the cusp of a revolution, driven by an unprecedented level of personalization enabled by distributed wearable bioelectronics. A pervasive, sustainable, and wearable energy solution is highly desiredable and remains a challenge. Here, we report a high-performance wearable electricity generation by manipulating the relative permittivity of a triboelectric nanogenerator (TENG). A compatible active carbon (AC) doped Polyy (vinylidene fluoride) (AC@PVDF) composite film was invented with high relative permittivity and a specific surface area for wearable biomechanical energy harvesting. Compared with the pure PVDF, the 0.8 % AC@PVDF film- based TENG can obtained an enhancement ofin voltage, current and power by 2.5 times, 3.5 times, and 9.8 times, respectively. This work, for the first time reporteds a stable, cost-effective, and scalable approach to improve the performance of the triboelectric nanogenerator, thus rendering a sustainable and wearable power solution to for the on-body electronics.
+abstract: Coming soon.
 # Summary. An optional shortened abstract.
-summary: We developed a method to manipulate the relative permittivity of a triboelectric nanogenerator for high-performance wearable biomechanical energy harvesting
+summary: 
 
 tags:
 - TENG
