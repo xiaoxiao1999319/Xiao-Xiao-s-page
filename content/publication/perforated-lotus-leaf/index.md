@@ -41,7 +41,9 @@ abstract: The ecosystem and human society are nowadays greatly threatened by oil
 summary: We developed a perforated lotus leaf to acheive efficient separation of immiscible oil/water mixtures.
 
 tags:
-- Source Themes
+- oil/water separation
+- perforated lotus leaf
+- Janus wettability
 featured: false
 
 # links:
