@@ -11,16 +11,13 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "350px"
+height = "330px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to Xiao Xiao's website!"
-  content = "Bienvenue sur le site Web de Xiao Xiao!
-  
-  欢迎来到 肖潇 的个人主页!
-  "
+  content = "欢迎来到 **肖潇** 的个人主页!"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
