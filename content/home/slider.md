@@ -19,8 +19,9 @@ height = "350px"
   title = "Welcome to Xiao Xiao's website!"
   content = '''
   Bienvenue sur le site Web de Xiao Xiao!
+  
   欢迎来到 肖潇 的个人主页!
-  肖潇 のウェブサイトへようこそ！
+  
   '''
   align = "center"  # Choose `center`, `left`, or `right`.
 
