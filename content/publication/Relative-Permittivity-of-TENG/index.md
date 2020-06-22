@@ -49,7 +49,10 @@ abstract: Coming soon.
 summary: 
 
 tags:
-- TENG
+- wearable bioelectronics
+- biomechanical energy harvesting
+- triboelectrification
+- relative permittivity
 featured: true
 
 # links:
