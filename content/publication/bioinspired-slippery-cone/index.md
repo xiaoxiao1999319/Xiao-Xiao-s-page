@@ -36,11 +36,14 @@ publication_short: ""
 
 abstract: Manipulating bubbles in surfactant solutions or oil mediums is of vital importance in daily life and industries concerned with cosmetics, food, fermentation, mineral flotation, etc. However, realizing controllable regulation of a bubble’s behavior is quite challenging in a low-surface-tension aqueous environment, which is mainly attributed to the strong affinity of liquid molecules to a solid surface to prevent the efficient interaction of gas bubbles with the solid surface. To address these issues, herein, we have taken inspiration from cactus spines and pitcher plants to develop a slippery copper cone (SCC), which can facilely manipulate gas bubble in surfactant solutions (as low as ∼29.9 mN/m, 20 °C), e.g., directional and continuous transportation of gas bubbles. This intriguing capability mainly originates from the cooperation of the conical morphology engendering a Laplace pressure and the slippery surface with low friction force but high affinity to bubbles. In addition, the SCC also shows an elegant capability of transporting gas bubbles in various organic solvents, such as formamide (57.4 mN/m, 20 °C), glycol (46.5 mN/m, 20 °C), dibutyl phthalate (37.0 mN/m, 20 °C), and dimethylformamide (35.8 mN/m, 20 °C). Furthermore, the prepared SCC also demonstrated distinguished feasibility in antibuoyancy bubble delivery, efficient collection of acidic CO2 microbubbles, and the underwater reaction of hydrogen and oxygen, endowing it with promising applications in various complex low-surface-tension environments.
 # Summary. An optional shortened abstract.
-summary: We developed a method to manipulating bubbles in surfactant solutions or oil mediums
+summary: We developed a bio-inspired slippery copper cone to manipulating bubbles in surfactant solutions or oil mediums
 
 tags:
-- Bio-inspired
-- slippery 
+- low-surface-tension environment
+- bio-inspired slippery copper cone
+- gas bubble
+- Laplace pressure
+- spontaneous and directional delivery
 featured: true
 
 # links:
