@@ -14,8 +14,8 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 [[feature]]
-  icon = "inspire"
-  icon_pack = "ai"
+  icon = "medapps"
+  icon_pack = "fab"
   name = "Synthesis ＆ Design"
   description = "Surface modification, polymerization, electrochemical reaction, and so on"  
   
