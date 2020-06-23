@@ -70,7 +70,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Nano Letters**]()'
+  caption: 'Image credit: [**Nano Letters**](https://dx.doi.org/10.1021/acs.nanolett.0c01987)'
   focal_point: ""
   preview_only: false
 
