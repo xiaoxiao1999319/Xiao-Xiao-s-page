@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "University of California, Los Angeles"
   company_url = "https://www.ucla.edu/"
   location = "United States"
-  date_start = "2020-01-01"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
   Supervisor: Prof. Jun Chen
