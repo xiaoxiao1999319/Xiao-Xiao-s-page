@@ -77,6 +77,6 @@ user_groups:
 
 **Xiao Xiao** is a PhD student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of **Professor Jun Chen** in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.S. in Materials Science & Engineering from **Beihang University**. And he used to be a research assistant in **Chinese Academy of Sciences** (CAS), **University College London** (UCL), and **Australian Institute for Innovative Materials** (AIIM). 
 
-His current research focuses on bio-inspired materials, wearable bioelectronics, as well as smart textiles for energy and healthcare applications. He has already published **5** journal articles and **2** of them are as the first/co-first author in *ACS Nano* and *Nano Letters*. At his leisure, he likes playing badminton, swimming, and traveling.
+His current research focuses on bio-inspired materials, wearable bioelectronics, as well as smart textiles for energy and healthcare applications. He has already published **6** journal articles and **3** of them are as the first/co-first author in *ACS Nano* and *Nano Letters*. At his leisure, he likes playing badminton, swimming, and traveling.
 
 Email: xiaoxiao1999@ucla.edu
