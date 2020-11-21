@@ -20,13 +20,14 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Visiting student"
   company = "Tsinghua-Berkeley Shenzhen Institute"
-  company_url = "https://www.ucla.edu/"
+  company_url = "https://www.tbsi.edu.cn/en/"
   location = "China"
   date_start = "2020-10-01"
   date_end = ""
   description = """
   Data Science and Information Technology Research Center
-  
+
+
   * Supervisor: Prof. Wenbo Ding
   
   """
@@ -40,6 +41,7 @@ date_format = "Jan 2006"
   date_end = "2019-09-01"
   description = """
   Centre for Nature Inspired Engineering
+  
   
   * Supervisor: Dr. Zheyi Meng, Prof. Marc-Olivier Coppens
 
@@ -55,6 +57,7 @@ date_format = "Jan 2006"
   description = """
   Institute for Superconducting & Electronic Materials
   
+  
   * Supervisor: Dr. Weijie Li, Prof. Shi Xue Dou
   
   """
@@ -68,6 +71,7 @@ date_format = "Jan 2006"
   date_end = "2019-01-01"
   description = """
   Technical Institute of Physics and Chemistry
+  
   
   * Supervisor: Dr. Cunming Yu, Prof. Lei Jiang
   
