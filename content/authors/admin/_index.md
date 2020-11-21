@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Bioengineering
+  - course: PhD student in Bioengineering
     institution: University of California, Los Angeles
     year: 2020 ~ Now
   - course: BSc in Materials Science and Engineering
@@ -57,9 +57,9 @@ social:
 - icon: qq
   icon_pack: fab
   link: "files/qq.jpg"
-- icon: cv
-  icon_pack: ai
-  link: "files/cv.pdf"
+# - icon: cv
+#   icon_pack: ai
+#   link: "files/cv.pdf"
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
