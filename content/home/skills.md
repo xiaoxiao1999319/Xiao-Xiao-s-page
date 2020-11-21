@@ -17,7 +17,7 @@ subtitle = ""
   icon = "medapps"
   icon_pack = "fab"
   name = "Synthesis ＆ Design"
-  description = "Surface modification, polymerization, electrochemical reaction, and so on"  
+  description = "Electronics design, surface modification, polymerization, and so on"  
   
 [[feature]]
   icon = "camera-retro"
@@ -29,13 +29,13 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Programming ＆ Simulation"
-  description = "Python, COMSOL, Gaussian, and so on"
+  description = "Python, COMSOL, Gaussian"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Data processing"
-  description = "Designing experiments, writing papers, oral presentation"  
+  description = "Labview, MATLAB, Origin"  
   
 
 
