@@ -10,11 +10,11 @@ author_notes:
 - "Equal Contribution"
 - ""
 - "Corresponding Author"
-date: "2020-12-20T00:00:00Z"
+date: "2020-11-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-12-20T00:00:00Z"
+publishDate: "2020-11-20T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +27,7 @@ publication: "*Trends in Chemistry*"
 publication_short: ""
 
 abstract: Wearable triboelectric nanogenerators (W-TENGs) have triggered considerable attention in light of their broad and diverse biomedical applications, from biomonitoring to therapeutics. In this review, we summarize the use of W-TENGs for self-powered/self-administer therapeutic intervention, classifying them on the basis of materials chemistry, working mechanism, and advanced device design. Specifically, we discuss the use of various W-TENG-based devices in drug delivery, muscle stimulation, tissue regeneration, and assistive therapy. We end the review by discussing academic and industry trends of W-TENGs in the future of therapeutic devices. This review showcases and will be testament to the wide-range potential of W-TENGs as an emerging technological platform which will penetrate many medical fields.
-summary: We delever a review to introduce the wide-range potential of wearable TENGs as an emerging technological platform which will penetrate many medical fields.
+summary: We deliver a review to introduce the wide-range potential of wearable TENGs as an emerging technological platform which will penetrate many medical fields.
 
 tags:
 - triboelectric nanogenerators
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Nano Letters**](https://dx.doi.org/10.1021/acs.nanolett.0c01987)'
+  caption: 'Image credit: [**Trends in Chemistry**](https://dx.doi.org)'
   focal_point: ""
   preview_only: false
 
