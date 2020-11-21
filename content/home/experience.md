@@ -24,10 +24,10 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2020-10-01"
   date_end = ""
-  description = """
+  description = "Data Science and Information Technology Research Center"
   Supervisor: Prof. Wenbo Ding
   
-  Data Science and Information Technology Research Center
+  
   """
   
 [[experience]]
