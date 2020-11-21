@@ -18,20 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Assistant"
-  company = "University of California, Los Angeles"
+  title = "Visiting student"
+  company = "Tsinghua-Berkeley Shenzhen Institute"
   company_url = "https://www.ucla.edu/"
-  location = "United States"
-  date_start = "2019-10-01"
+  location = "China"
+  date_start = "2020-10-01"
   date_end = ""
   description = """
-  Supervisor: Prof. Jun Chen
+  Supervisor: Prof. Wenbo Ding
   
-  * Smart Textiles for Energy Applications.
+  Data Science and Information Technology Research Center
   """
   
 [[experience]]
-  title = "Visiting researcher"
+  title = "Visiting student"
   company = "University College London"
   company_url = "https://www.ucl.ac.uk/"
   location = "United Kingdom"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   description = """
   Supervisor: Dr. Zheyi Meng, Prof. Marc-Olivier Coppens
   
-  * Bio-inspired Membranes for Water Purification and Bio-separation
+  Centre for Nature Inspired Engineering
   """
 
 [[experience]]
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   description = """
   Supervisor: Dr. Weijie Li, Prof. Shi Xue Dou
   
-  * Hydrogel Electrolytes for Flexible Zn Ion Batteries.
+  Institute for Superconducting & Electronic Materials
   """
   
 [[experience]]
@@ -66,6 +66,6 @@ date_format = "Jan 2006"
   description = """
   Supervisor: Dr. Cunming Yu, Prof. Lei Jiang
   
-  * Bio-inspired Functional Materials and Interface.
+  Technical Institute of Physics and Chemistry
   """
 +++
