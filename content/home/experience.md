@@ -24,9 +24,10 @@ date_format = "Jan 2006"
   location = "China"
   date_start = "2020-10-01"
   date_end = ""
-  description = "Data Science and Information Technology Research Center"
-  Supervisor: Prof. Wenbo Ding
+  description = """
+  Data Science and Information Technology Research Center
   
+  * Supervisor: Prof. Wenbo Ding
   
   """
   
@@ -38,9 +39,10 @@ date_format = "Jan 2006"
   date_start = "2019-06-01"
   date_end = "2019-09-01"
   description = """
-  Supervisor: Dr. Zheyi Meng, Prof. Marc-Olivier Coppens
-  
   Centre for Nature Inspired Engineering
+  
+  * Supervisor: Dr. Zheyi Meng, Prof. Marc-Olivier Coppens
+
   """
 
 [[experience]]
@@ -51,9 +53,10 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-06-01"
   description = """
-  Supervisor: Dr. Weijie Li, Prof. Shi Xue Dou
-  
   Institute for Superconducting & Electronic Materials
+  
+  * Supervisor: Dr. Weijie Li, Prof. Shi Xue Dou
+  
   """
   
 [[experience]]
@@ -64,8 +67,9 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = "2019-01-01"
   description = """
-  Supervisor: Dr. Cunming Yu, Prof. Lei Jiang
-  
   Technical Institute of Physics and Chemistry
+  
+  * Supervisor: Dr. Cunming Yu, Prof. Lei Jiang
+  
   """
 +++
