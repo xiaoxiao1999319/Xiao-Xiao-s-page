@@ -18,7 +18,7 @@ abstract: "Xiao Xiao gave a talk in the section of **Forum on fashion design and
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2020-12-03T09:30:00Z"
 date_end: "2020-12-03T11:30:00Z"
-all_day: true
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-11-14T00:00:00Z"
