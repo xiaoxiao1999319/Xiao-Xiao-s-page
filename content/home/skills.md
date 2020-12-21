@@ -16,7 +16,7 @@ subtitle = ""
 [[feature]]
   icon = "medapps"
   icon_pack = "fab"
-  name = "Design ＆ Synthesis"
+  name = "Design＆Synthesis"
   description = "Arduino, STM32, surface modification, polymerization"  
   
 [[feature]]
@@ -28,7 +28,7 @@ subtitle = ""
 [[feature]]
   icon = "python"
   icon_pack = "fab"
-  name = "Programming ＆ Simulation"
+  name = "Programming＆Simulation"
   description = "Python, C, Labview, MATLAB, Origin, COMSOL, Gaussian"
   
   
