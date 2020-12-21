@@ -16,26 +16,21 @@ subtitle = ""
 [[feature]]
   icon = "medapps"
   icon_pack = "fab"
-  name = "Synthesis ＆ Design"
-  description = "Electronics design, surface modification, polymerization, and so on"  
+  name = "Design ＆ Synthesis"
+  description = "Arduino, STM32, surface modification, polymerization"  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Instrument operation"
-  description = "High speed camera, SEM, XRD, Micro-CT, TGA, and so on"
+  description = "3D printer, Laser-cutter, High-speed camera, SEM, XRD, TGA"
   
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Programming ＆ Simulation"
-  description = "Python, COMSOL, Gaussian"
+  description = "Python, C, Labview, MATLAB, Origin, COMSOL, Gaussian"
   
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Data processing"
-  description = "Labview, MATLAB, Origin"  
   
 
 
