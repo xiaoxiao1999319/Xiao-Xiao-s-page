@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. student in Department of Bioengineering
+  - course: Ph.D. student in Bioengineering
     institution: University of California, Los Angeles
     year: 2020 ~ Now
   - course: B.Eng. in Materials Science and Engineering
@@ -44,7 +44,7 @@ social:
   link: "mailto:xiaoxiao1999@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.hk/citations?hl=zh-CN&user=rC2ECMoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=rC2ECMoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/xiaoxiao1999319
