@@ -18,19 +18,19 @@ organizations:
   url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on bio-inspired materials, smart textiles, as well as wearable bioelectronics for energy and healthcare applications.
+bio: My research focuses on wearable electronics, bio-inspired strategies, as well as microfluidics for energy and healthcare applications.
 
 interests:
 - Wearable bioelectronics
-- Bio-inspired materials
-- Smart textiles
+- Microfluidics
+- Bio-inspired strategies
 
 education:
   courses:
-  - course: PhD student in Bioengineering
+  - course: Ph.D. student in Department of Bioengineering
     institution: University of California, Los Angeles
     year: 2020 ~ Now
-  - course: BSc in Materials Science and Engineering
+  - course: B.Eng. in Materials Science and Engineering
     institution: Beihang University
     year: 2016 ~ 2020
 
@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** is a PhD student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of **Professor Jun Chen** in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.S. in Materials Science & Engineering from **Beihang University**. His current research focuses on wearable bioelectronics, bio-inspired materials, as well as smart textiles for energy and healthcare applications. He has already published **7** journal articles and **3** of them are as the first/co-first author in *ACS Nano*, *Nano Letters* and so on. At his leisure, he likes playing badminton, swimming, and traveling.
+**Xiao Xiao** is a Ph.D. student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.Eng. in Materials Science and Engineering from Beihang University. His current research focuses on wearable electronics, bio-inspired strategies, as well as microfluidics for energy and healthcare applications. He has already published **7** journal articles and **3** of them are as the first/co-first author in *ACS Nano*, *Nano Letters* and many others. At his leisure, he likes playing badminton, swimming, and traveling.
 
 Email: xiaoxiao1999@ucla.edu
