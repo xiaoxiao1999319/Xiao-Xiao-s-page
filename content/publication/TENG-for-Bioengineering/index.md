@@ -38,7 +38,7 @@ tags:
 - wearable bioelectronics
 - therapeutics
 - regenerative medicine
-featured: true
+featured: false
 
 # links:
 # - name: ""
