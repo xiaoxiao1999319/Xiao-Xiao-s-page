@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   Data Science and Information Technology Research Center
 
 
-  * Supervisor: Prof. Wenbo Ding("https://whenboy.github.io/index.html")
+  * Supervisor: [Prof. Wenbo Ding](https://whenboy.github.io/index.html)
   
   """
   
