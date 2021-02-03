@@ -11,7 +11,7 @@ author_notes:
 - ""
 - "Corresponding Author"
 date: "2021-01-20T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.trechm.2021.01.001"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-20T00:00:00Z"
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Trends in Chemistry**](https://dx.doi.org)'
+  caption: 'Image credit: [**Trends in Chemistry**](https://doi.org/10.1016/j.trechm.2021.01.001)'
   focal_point: ""
   preview_only: false
 
