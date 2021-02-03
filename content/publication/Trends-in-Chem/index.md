@@ -1,5 +1,5 @@
 ---
-title: "Wearable Triboelectric Nanogenerators for Self-Powered Therapeutics"
+title: "Wearable Triboelectric Nanogenerators for Therapeutics"
 authors:
 - admin
 - G. Chen
