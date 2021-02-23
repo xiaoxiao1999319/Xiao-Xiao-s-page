@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = "certificates/Xbot.pdf"
   date_start = "2021-01-18"
-  date_end = "2021-2-6"
+  date_end = "2021-02-06"
   description = ""
   
 [[item]]
