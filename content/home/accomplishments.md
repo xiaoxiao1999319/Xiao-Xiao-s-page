@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Industial Innovation Park"
+  organization_url = "http://www.xbotpark.com/en"
+  title = "Xbot Park Smart Product Innovation Boot Camp"
+  url = ""
+  certificate_url = "certificates/Xbot.pdf"
+  date_start = "2021-01-18"
+  date_end = "2021-2-6"
+  description = ""
+  
+[[item]]
   organization = "University of Wollongong"
   organization_url = "https://www.uow.edu.au/"
   title = "Study Abroad and Exchange program"
