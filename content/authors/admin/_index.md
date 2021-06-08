@@ -48,15 +48,15 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/xiaoxiao1999319
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/xiao-xiao99/
-- icon: weixin
-  icon_pack: fab
-  link: "files/wechat.jpg"
-- icon: qq
-  icon_pack: fab
-  link: "files/qq.jpg"
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/xiao-xiao99/
+#- icon: weixin
+#  icon_pack: fab
+#  link: "files/wechat.jpg"
+# - icon: qq
+#  icon_pack: fab
+#  link: "files/qq.jpg"
 # - icon: cv
 #   icon_pack: ai
 #   link: "files/cv.pdf"
@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** is a Ph.D. student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.Eng. in Materials Science and Engineering from Beihang University. His current research focuses on wearable electronics, bio-inspired materials, as well as microfluidics for energy and healthcare applications. He has already published **15** journal articles and **8** of them are as the first/co-first author in *Trends in Chemistry*, *ACS Nano*, *Nano Letters*, *ChemComm*, *Innovation*, and many others. His current h-index is 6 on Google Scholar.
+**Xiao Xiao** is a Ph.D. student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.Eng. in Materials Science and Engineering from Beihang University. His current research focuses on wearable electronics, bio-inspired materials, as well as microfluidics for energy and healthcare applications. He has already published **15** journal articles and **8** of them are as the first/co-first author in *Trends in Chemistry*, *ACS Nano*, *Nano Letters*, *ChemComm*, *Innovation*, and many others.
 
 Email: xiaoxiao1999@ucla.edu
