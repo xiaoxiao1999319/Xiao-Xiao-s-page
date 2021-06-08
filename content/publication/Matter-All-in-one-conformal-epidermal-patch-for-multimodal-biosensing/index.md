@@ -34,7 +34,7 @@ publication_short: ""
 
 abstract: A conformal, stretchable, and integrated epidermal patch is developed to simultaneously monitor biophysical and biochemical signals via an all-in-one design. Ultrasonic transducers are used to monitor cardiovascular status of blood pressure and heart rate from the carotid artery, and electrochemical sensors are used to detect biomarker levels of lactate, caffeine, and alcohol from sweat and glucose from interstitial fluid. The counteracting and synergistic effects of exercise, alcohol intake, food intake, and caffeine intake on cardiovascular parameters, and the continuous and dynamic physiological monitoring are also experimentally validated.
 # Summary. An optional shortened abstract.
-summary: 
+summary: Matter.
 
 tags:
 - wearable bioelectronics
