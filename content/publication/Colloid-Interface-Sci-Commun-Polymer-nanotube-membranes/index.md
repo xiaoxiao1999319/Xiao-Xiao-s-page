@@ -36,7 +36,7 @@ publication_short: ""
 
 abstract: Self-standing polystyrene nanotube (PNT) membranes have been fabricated from liquid deposition in the pores of anodic alumina. PNTs were deposited using 3 wt% concentration of 90 kDa polystyrene in the starting solution, followed by 2 h annealing in Argon. Initial polymer concentration, polymer molecular weight and annealing time were varied, and their impact on water flow through the nanotubes assessed. These results open the way to creating PNT membranes with well-defined pores of low tortuosity and tuneable surface properties, overcoming the limits of current polymeric membranes, whose internal transport pathway cannot be controlled or defined as well as for the case of the PNTs presented here.
 # Summary. An optional shortened abstract.
-summary:.
+summary: 
 
 tags:
 - Polymer nanotubes
