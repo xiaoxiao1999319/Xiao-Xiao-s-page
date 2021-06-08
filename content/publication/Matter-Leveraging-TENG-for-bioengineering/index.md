@@ -28,11 +28,11 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Matter*"
-publication_short: ""
+publication_short: "*Matter*"
 
 abstract: Triboelectric nanogenerators (TENGs) are able to convert low-frequency biomechanical motions into characteristically high-voltage and low-current electrical signals via a coupling of contact electrification and electrostatic induction. Resulting from a unique working principle, TENGs hold a collection of compelling features, including light weight, structural simplicity, cost-effectiveness, biocompatibility, and a wide range of soft materials choices. Electrical signals generated from human body motions via TENGs could be used as sustainable power sources, active biomonitors, and electrical stimulation therapeutics for bioengineering. Here we comprehensively reviewed the advancements in using TENGs for on-body energy, sensing, and therapeutic applications to build up a body area network (BAN) for personalized health care. We concluded our review with a discussion of the challenges and problems of leveraging triboelectric nanogenerators for bioengineering.
 # Summary. An optional shortened abstract.
-summary: Matter.
+summary: A review article pubulished on *Matter*.
 
 tags:
 - triboelectric nanogenerators
