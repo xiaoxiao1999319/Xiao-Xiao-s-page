@@ -24,11 +24,11 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Trend in Chemistry*"
-publication_short: ""
+publication_short: "*Trend Chem.*"
 
 abstract: Wearable triboelectric nanogenerators (W-TENGs) have triggered considerable attention in light of their broad and diverse biomedical applications, from biomonitoring to therapeutics. In this review, we summarize the use of W-TENGs for self-powered/self-administered therapeutic interventions, classifying them on the basis of materials chemistry, working mechanism, and advanced device design. Specifically, we discuss the use of various W-TENG-based devices in drug delivery, muscle stimulation, tissue regeneration, and assistive therapy. We end the review by discussing academic and industrial trends for W-TENGs in the future of therapeutic devices. This review showcases the significant potential of W-TENGs as an emerging technological platform that will permeate many medical fields.
 # Summary. An optional shortened abstract.
-summary: This paper was selected as the Cover Image of *Trend in Chemistry*.
+summary: A review selected as the Cover Image of *Trend in Chemistry*.
 
 tags:
 - triboelectric nanogenerators
