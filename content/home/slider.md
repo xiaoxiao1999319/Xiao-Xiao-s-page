@@ -34,27 +34,27 @@ height = "330px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-[[item]]
-  title = "Biomechanical energy harvester"
-  content = "*Nano Letters*: a high-performance wearable TENG"
-  align = "left"
-  cta_label = "Get to know"
-  cta_url = "https://xiao-xiao.tech/publication/relative-permittivity-of-teng/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-  overlay_color = "#555"  # An HTML color value.
-  overlay_img = "ucla.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# [[item]]
+#   title = "Biomechanical energy harvester"
+#   content = "*Nano Letters*: a high-performance wearable TENG"
+#   align = "left"
+#   cta_label = "Get to know"
+#   cta_url = "https://xiao-xiao.tech/publication/relative-permittivity-of-teng/"
+#   cta_icon_pack = "fas"
+#   cta_icon = "graduation-cap"
+#   overlay_color = "#555"  # An HTML color value.
+#   overlay_img = "ucla.jpg"  # Image path relative to your `static/img/` folder.
+#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
-[[item]]
-  title = "Learning From Nature"
-  content = "A post written for *Nature*’s 150th anniversary."
-  align = "right"
-  cta_label = "Get to read"
-  cta_url = "https://xiao-xiao.tech/post/20200621bioinspired-idea/"
-  cta_icon_pack = "fas"
-  cta_icon = "graduation-cap"
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# [[item]]
+#   title = "Learning From Nature"
+#   content = "A post written for *Nature*’s 150th anniversary."
+#   align = "right"
+#   cta_label = "Get to read"
+#   cta_url = "https://xiao-xiao.tech/post/20200621bioinspired-idea/"
+#   cta_icon_pack = "fas"
+#   cta_icon = "graduation-cap"
+#   overlay_color = "#333"  # An HTML color value.
+#   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
+#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
