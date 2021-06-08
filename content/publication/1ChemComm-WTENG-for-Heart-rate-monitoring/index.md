@@ -24,11 +24,11 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Chemical Communication*"
-publication_short: ""
+publication_short: "*Chem. Commun.*"
 
 abstract: Cardiovascular diseases are currently the leading cause of death globally and are projected to remain the leading cause in 2040, making heart rate an important physiological indicator that should be regularly monitored. Current heart rate monitoring techniques, including photoplethysmography and electrocardiography, are inconvenient for continuous biomonitoring in a wearable way. With a collection of compelling features, such as light weight and high sensitivity, triboelectric nanogenerators (TENGs) have become an emerging and cost-effective biotechnology for long-term and continuous heart rate monitoring in a wearable manner. In this review, we systematically discuss the biomechanics of heart beat, working mechanisms of TENGs, and exemplary applications of TENGs for self-powered heart rate monitoring. Finally, we conclude with a discussion of the potential for technology development in the future.
 # Summary. An optional shortened abstract.
-summary: This paper was selected as the Cover Image of *Chemical Communication*.
+summary: This paper was selected as the Cover Image of *ChemComm*.
 
 tags:
 - triboelectric nanogenerators
