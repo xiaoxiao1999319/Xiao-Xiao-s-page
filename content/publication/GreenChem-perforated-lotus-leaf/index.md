@@ -38,7 +38,7 @@ publication_short: "*Green Chem.*"
 
 abstract: The ecosystem and human society are nowadays greatly threatened by oily wastewater or spilled oils. To address these severe issues, considerably advanced methods, such as those using polymer membranes and polymer-coated meshes with special wettability, have been developed to achieve efficient oil/water separation. However, a single superhydrophobic- or superhydrophilic-based membrane or mesh can only allow either oil or water to pass through, which restricts their applications. Besides, these artificial materials and their fabricating processes may also involve hazardous substances and enormous energy consumption. Therefore, powerful and green oil/water separation approaches are still urgently needed. Herein, we report that the natural lotus leaf with Janus wettability can be a potential candidate for efficient oil/water separation after simple punching by a needle. The proposed approach has the advantages of easily obtained and low-cost natural origin materials and a simple fabrication process and shows potential applicability for building a greener world.
 # Summary. An optional shortened abstract.
-summary: Green Chemistry.
+summary: A research article published on *Green Chemistry*.
 
 tags:
 - oil/water separation
