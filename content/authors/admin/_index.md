@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on wearable bioelectronics, bioinspired materials, as well as microfluidics for energy and healthcare applications.
+bio: My research focuses on wearable bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
 
 interests:
 - Wearable bioelectronics
