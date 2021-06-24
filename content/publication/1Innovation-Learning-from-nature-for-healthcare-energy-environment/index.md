@@ -28,7 +28,7 @@ publication_short: "*Innovation*"
 
 abstract: Have you ever looked into the sky and wondered why birds could fly? Or perhaps why the leaves of cacti are needle-like? Throughout the process of evolution, organisms have experimented with various forms and functions for over 3 billion years before the first human manipulations of stone, bone, and antler. From animal teeth to spears, fish fins to paddles, human beings have studied nature not only to satisfy curiosity but, more importantly, to learn from it for innovations and inventions. Along with the development of technology, our understanding of the creatures in nature goes beyond the pure observation of morphology to the investigation of exquisite composition as well as knowledge of fundamentals of their unique functions. Nowadays, people draw inspiration from nature to create things such as shark-skin swimsuits that increase swimming speeds, buzzard-inspired flaps that improve aircraft maneuver, and self-cleaning clothes that mimic the surface wettability of lotus leaves. These ideas are bio-inspired strategies, aiming at inspiring from biological methods and natural approaches to design modern technology or resolve engineering problems. 
 # Summary. An optional shortened abstract.
-summary: A comment article published on *Innovation*.
+summary: A comment article published on *the Innovation*.
 
 tags:
 - healthcare
