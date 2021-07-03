@@ -27,7 +27,7 @@ author_notes:
 - "Corresponding Author"
 - "Corresponding Author"
 date: "2021-06-20T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1021/acsnano.1c02719"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-20T00:00:00Z"
@@ -69,7 +69,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**ACS Nano**]()'
+  caption: 'Image credit: [**ACS Nano**](https://doi.org/10.1021/acsnano.1c02719)'
   focal_point: ""
   preview_only: false
 
