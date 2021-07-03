@@ -1,5 +1,5 @@
 ---
-title: "Manipulating Relative Permittivity for High-Performance Wearable Triboelectric Nanogenerator"
+title: "Bioinspired Graphene Oxide Membranes with pH-Responsive Nanochannels for High-Performance Nanofiltration"
 authors:
 - Z. Zhang
 - admin
