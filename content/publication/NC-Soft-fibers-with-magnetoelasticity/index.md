@@ -38,7 +38,7 @@ publication_types: ["2"]
 publication: "*Nature Communications*"
 publication_short: "*Nat. Commun.*"
 
-abstract:.
+abstract:
 # Summary. An optional shortened abstract.
 summary: A research article accepted by *Nature Communications*.
 
