@@ -7,17 +7,17 @@ authors:
 - G. Liu
 - Z. Xu
 - B. Wang
-- Cunming Yu*
+- C. Yu*
 - R. Ras
-- Lei Jiang
+- L. Jiang
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
 - ""
 - ""
 - ""
 - ""
-- "Corresponding author"
+- ""
+- ""
+- ""
 - ""
 - ""
 date: "2019-11-06T00:00:00Z"
