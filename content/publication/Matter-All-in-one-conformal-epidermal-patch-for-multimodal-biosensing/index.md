@@ -7,7 +7,7 @@ authors:
 - admin
 - G. Chen
 - J. Xu
-- Jun Chen*
+- J. Chen*
 author_notes:
 - ""
 - ""
@@ -15,7 +15,7 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding Author"
+- ""
 date: "2021-04-21T00:00:00Z"
 doi: "https://doi.org/10.1016/j.matt.2021.03.005"
 
