@@ -4,12 +4,12 @@ authors:
 - S. Shen
 - admin
 - X. Xiao
-- Jun Chen*
+- J. Chen*
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
 - ""
-- "Corresponding Author"
+- ""
 date: "2021-05-20T00:00:00Z"
 doi: "https://doi.org/10.1039/D1CC02091A"
 
