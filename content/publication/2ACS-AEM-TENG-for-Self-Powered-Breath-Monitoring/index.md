@@ -35,7 +35,7 @@ tags:
 - wearable bioelectronics 
 - self-powered breath monitoring 
 - personalized healthcare
-featured: true
+featured: false
 
 # links:
 # - name: ""
