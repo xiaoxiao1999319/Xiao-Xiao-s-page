@@ -4,7 +4,7 @@ authors:
 - admin
 - G. Chen
 - A. Libanori
-- Jun Chen*
+- J. Chen*
 author_notes:
 - ""
 - ""
