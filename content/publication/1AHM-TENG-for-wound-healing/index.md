@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: "*Advanced Healthcare Materials*"
 publication_short: "*Adv. Healthc. Mater.*"
 
-abstract: Recently, the advent of triboelectric nanogenerators (TENGs) has brought about a plethora of opportunities for self-powered wound healing in view of TENGs’ pertinent features which span from a wide range of constitutive biocompatible materials available, to simple fabrication, reduced portable size, high output power, and low cost. Herein, a comprehensive review of TENGs as emerging biotechnology for the wound healing community is presented and covered over three fields: electrical stimulation, anti-bacterial activity, and drug delivery. State-of-the-art designs are discussed in each section to provide a broader understanding of TENG applications in wound healing. Although some challenges remain, TENGs are proving to be promising platforms for human-centric therapeutics in the era of Internet of Things.
+abstract: Herein, a comprehensive review of TENGs as emerging biotechnology for the wound healing community is presented and covered over three fields: electrical stimulation, anti-bacterial activity, and drug delivery. State-of-the-art designs are discussed in each section to provide a broader understanding of TENG applications in wound healing. Although some challenges remain, TENGs are proving to be promising platforms for human-centric therapeutics in the era of Internet of Things.
 # Summary. An optional shortened abstract.
 summary: A review article selected as the Cover Image of *Advanced Healthcare Materials*.
 
