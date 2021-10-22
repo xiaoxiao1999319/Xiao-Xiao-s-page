@@ -52,7 +52,7 @@ tags:
 - gating regularity
 - nanofiltration
 - molecular separation
-featured: true
+featured: false
 
 # links:
 # - name: ""
