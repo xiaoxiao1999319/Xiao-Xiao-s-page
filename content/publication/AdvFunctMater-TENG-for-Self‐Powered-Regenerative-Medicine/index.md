@@ -1,5 +1,5 @@
 ---
-title: "Triboelectric Nanogenerators for Self-powered Wound Healing"
+title: "Advances in Triboelectric Nanogenerators for Self-Powered Regenerative Medicine"
 authors:
 - admin
 - X. Xiao
@@ -7,7 +7,7 @@ authors:
 - A. Libanori
 - Y. Fang
 - X. Li
-- Jun Chen*
+- J. Chen*
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
@@ -32,7 +32,7 @@ publication_types: ["2"]
 publication: "*Advanced Healthcare Materials*"
 publication_short: "*Adv. Healthc. Mater.*"
 
-abstract: Wound healing, one of the most complex processes in the human body, involves the spatial and temporal synchronization of a variety of cell types with distinct roles. Slow- or nonhealing skin wounds have potentially life-threatening consequences, ranging from infection, to scar, clot and hemorrhage formation. Recently, the advent of triboelectric nanogenerators (TENGs) has brought about a plethora of opportunities for self-powered wound healing in view of TENGs’ pertinent features which span from a wide range of constitutive biocompatible materials available, to simple fabrication, reduced portable size, high output power, and low cost. Herein, a comprehensive review of TENGs as emerging biotechnology for the wound healing community is presented and covered over three fields: electrical stimulation, anti-bacterial activity, and drug delivery. State-of-the-art designs are discussed in each section to provide a broader understanding of TENG applications in wound healing. Although some challenges remain, TENGs are proving to be promising platforms for human-centric therapeutics in the era of Internet of Things. Consequently, leveraging TENGs for wound healing is set to provide a new solution in wound management and play an essential role in the future of point-of-care interventions.
+abstract: Over the last decade, in pursuit to provide suitable alternatives for power supplies of medical devices in regenerative medicine, extensive research on nanogenerators has been developed. Such devices can overcome current commercial battery challenges, including intense heat-on-body complications due to the electrical current during therapeutic usage, leading to protein denaturation, cell structure destruction, and even cell necrosis. In addition, these traditional batteries contain a bulky and heavy structure that prevents them from providing sustainable on body biomedical therapeutic intervention. Furthermore, advantages such as wide-range biocompatible and biodegradable materials, lightweight, and sufficient stretchability for device construction can minimize the side effects of implantable devices, including inflammation or toxicity, as well as eliminate secondary surgery to replace or remove batteries. Triboelectric nanogenerators (TENGs) are associated with harvesting mechanical energy in various forms, among which human body motions can serve as a renewable power source for healthcare systems. This review is written to emphasize the importance of TENG's applications in regenerative medicine and modulation purposes, particularly for the nervous system. Some crucial parameters for implantable consideration are discussed. In the concluding remarks, features for clinical utilization including output efficiency, encapsulation, stability, and miniaturization are suggested as challenges and prospects.
 # Summary. An optional shortened abstract.
 summary: A review article published on *Advanced Healthcare Materials*.
 
