@@ -16,11 +16,11 @@ author_notes:
 - ""
 - ""
 - ""
-date: "2020-06-20T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: "https://dx.doi.org/10.1021/acs.nanolett.0c01987"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-20T00:00:00Z"
+publishDate: "2021-10-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,12 +29,12 @@ publishDate: "2020-06-20T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Nano Letters*"
-publication_short: "*Nano Lett.*"
+publication: "*Nano Energy*"
+publication_short: "*Nano Energy*"
 
 abstract: As the world marches into the era of the Internet of Things (IoT), the practice of human health care is on the cusp of a revolution, driven by an unprecedented level of personalization enabled by a variety of wearable bioelectronics. A sustainable and wearable energy solution is highly desirable and remains a challenge. Here, we report a high-performance wearable electricity generation approach by manipulating the relative permittivity of a triboelectric nanogenerator (TENG). A compatible active carbon (AC)-doped polyvinylidene fluoride (AC@PVDF) composite film was invented with high relative permittivity and a specific surface area for wearable biomechanical energy harvesting. Compared with the pure PVDF, the 0.8% AC@PVDF film-based TENG obtained an enhancement in voltage, current, and power by 2.5, 3.5, and 9.8 times, respectively. This work reports a stable, cost-effective, and scalable approach to improve the performance of the triboelectric nanogenerator for wearable biomechanical energy harvesting, thus rendering a sustainable and pervasive energy solution for on-body electronics.
 # Summary. An optional shortened abstract.
-summary: A research article selected as the Cover Image of *Nano Letters*.
+summary: A research article selected as the Cover Image of *Nano Energy*.
 
 tags:
 - wearable bioelectronics
