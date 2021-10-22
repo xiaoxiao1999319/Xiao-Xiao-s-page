@@ -10,14 +10,14 @@ authors:
 - M. Coppens*
 - D. Mattia*
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
 - ""
 - ""
 - ""
 - ""
-- "Corresponding Author"
-- "Corresponding Author"
+- ""
+- ""
+- ""
+- ""
 date: "2020-11-17T00:00:00Z"
 doi: "https://doi.org/10.1016/j.colcom.2020.100334"
 
