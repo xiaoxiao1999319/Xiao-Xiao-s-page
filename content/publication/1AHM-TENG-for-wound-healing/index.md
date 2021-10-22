@@ -9,8 +9,8 @@ authors:
 - X. Li
 - J. Chen*
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
+- ""
+- ""
 - ""
 - ""
 - ""
