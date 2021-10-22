@@ -4,12 +4,12 @@ authors:
 - admin
 - X. Xiao
 - Y. Lan
-- Jun Chen*
+- J. Chen*
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
 - ""
-- "Corresponding Author"
+- ""
 date: "2021-06-18T00:00:00Z"
 doi: "https://doi.org/10.1016/j.xinn.2021.100135"
 
