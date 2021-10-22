@@ -40,7 +40,7 @@ publication_types: ["2"]
 publication: "*Journal of Materials Chemistry A*"
 publication_short: "*J. Mater. Chem. A*"
 
-abstract:Offshore oil spills, industrial oily wastewater, and domestic oil pollution are some of the most serious global challenges, and are leading environmental causes of morbidity and mortality. Nanofiber membrane materials manufactured via electrostatic spinning for oil/water separation have become one of the emerging technologies to treat oil/water emulsions. Here, we give a comprehensive review of current progress on electrospinning nanofibers for oil/water separation to promote the field’s advancement. Typical examples of hydrophilic–oleophobic, hydrophobic–oleophilic, and special wettability nanofiber membranes are systematically summarized. The effects of material selection, fiber production processes, and subsequent modifications on the membrane performance are compared and discussed. Potential shortcomings of various types of separation membranes and the potential solutions are provided. The review concludes with a summary and outlook on future directions and innovations in electrospinning nanofibers and membranes for oil/water separation.
+abstract: 
 # Summary. An optional shortened abstract.
 summary: A review article published on *Journal of Materials Chemistry A*.
 
