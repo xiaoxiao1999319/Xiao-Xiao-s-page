@@ -1,36 +1,34 @@
 ---
-title: "Manipulating Relative Permittivity for High-Performance Wearable Triboelectric Nanogenerator"
+title: "Electrospinning nanofibers and nanomembranes for oil/water separation"
 authors:
-- Z. Zhang
+- X. Yan
 - admin
-- Y. Zhou
+- C. Au
+- S. Mathur
 - L. Huang*
 - Y. Wang
-- Q. Rong
-- Z. Han
-- H. Qu
+- Z. Zhang
 - Z. Zhu
-- S. Xu
+- M. Kipper
 - J. Tang*
-- Jun Chen*
+- J. Chen*
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
 - ""
-- "Corresponding Author"
-- ""
-- ""
-- ""
-- ""
-- ""
 - ""
 - "Corresponding Author"
+- ""
+- ""
+- ""
+- ""
 - "Corresponding Author"
-date: "2021-06-20T00:00:00Z"
+- "Corresponding Author"
+date: "2021-09-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-20T00:00:00Z"
+publishDate: "2021-09-16T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -40,7 +38,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*ACS Nano*"
-publication_short: "*ACS Nano*"
+publication_short: "*J. Mater. Chem. A*"
 
 abstract: Tunable gating graphene oxide (GO) membranes with high water permeance and precise molecular separation remain highly desired in smart nanofiltration devices. Herein, bio-inspired by the filtration function of renal glomerulus, we report a smart and high-performance graphene oxide membrane constructed via introducing positively charged polyethylenimine-grafted GO (GO-PEI) to negatively charged GO nanosheets. It was found that the additional GO-PEI component changed the surface charge, improved the hydrophilicity and enlarge the nanochannels. The glomerulus-inspired graphene oxide membrane (G-GOM) shows a water permeance up to 88.57 L m-2 h-1 bar-1, corresponding to a 4 times enhancement than that of conventional GO membrane due to the enlarged confined nanochannels. Meanwhile, owing to the electrostatic interaction, it can selectively remove positively charged methylene blue (MnB) at pH 12 and negatively charged methyl orange (MO) at pH 2, with a removal rate of over 96%. The high and cyclic water permeance and highly selective organic removal performance can be attributed to the synergic effect of controlled nanochannel size and tunable electrostatic interaction in responding to the environmental pH. This strategy provides an insight into designing pH-responsive gating membranes with tunable selectivity, representing a great advancement in smart nanofiltration with wide range of applications.
 # Summary. An optional shortened abstract.
