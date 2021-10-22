@@ -7,8 +7,8 @@ authors:
 - Y. Zhang
 - G. Liu
 - M. Cao
-- Cunming Yu*
-- Lei Jiang
+- C. Yu*
+- L. Jiang
 author_notes:
 - ""
 - ""
@@ -16,7 +16,7 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding author"
+- ""
 - ""
 date: "2019-03-18T00:00:00Z"
 doi: "https://doi.org/10.1021/acsnano.8b08480"
