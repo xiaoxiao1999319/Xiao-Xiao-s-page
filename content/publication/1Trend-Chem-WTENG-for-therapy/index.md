@@ -6,10 +6,10 @@ authors:
 - A. Libanori
 - Jun Chen*
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
 - ""
-- "Corresponding Author"
+- ""
+- ""
+- ""
 date: "2021-04-19T00:00:00Z"
 doi: "https://doi.org/10.1016/j.trechm.2021.01.001"
 
