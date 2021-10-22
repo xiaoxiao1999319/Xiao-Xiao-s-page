@@ -21,9 +21,9 @@ organizations:
 bio: My research focuses on bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
 
 interests:
-- Bioelectronics
-- Bioengineering
-- Bionics
+- bioelectronics
+- bioengineering
+- bionics
 
 education:
   courses:
