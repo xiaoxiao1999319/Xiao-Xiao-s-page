@@ -33,6 +33,7 @@ publication: "*Advanced Healthcare Materials*"
 publication_short: "*Adv. Healthc. Mater.*"
 
 abstract: Wound healing, one of the most complex processes in the human body, involves the spatial and temporal synchronization of a variety of cell types with distinct roles. Slow- or nonhealing skin wounds have potentially life-threatening consequences, ranging from infection, to scar, clot and hemorrhage formation. Recently, the advent of triboelectric nanogenerators (TENGs) has brought about a plethora of opportunities for self-powered wound healing in view of TENGs’ pertinent features which span from a wide range of constitutive biocompatible materials available, to simple fabrication, reduced portable size, high output power, and low cost. Herein, a comprehensive review of TENGs as emerging biotechnology for the wound healing community is presented and covered over three fields: electrical stimulation, anti-bacterial activity, and drug delivery. State-of-the-art designs are discussed in each section to provide a broader understanding of TENG applications in wound healing. Although some challenges remain, TENGs are proving to be promising platforms for human-centric therapeutics in the era of Internet of Things. Consequently, leveraging TENGs for wound healing is set to provide a new solution in wound management and play an essential role in the future of point-of-care interventions.
+
 # Summary. An optional shortened abstract.
 summary: A review article published on *Advanced Healthcare Materials*.
 
