@@ -25,7 +25,7 @@ author_notes:
 - "Corresponding Author"
 - "Corresponding Author"
 date: "2021-09-16T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1039/D1TA05873H"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-16T00:00:00Z"
@@ -37,19 +37,20 @@ publishDate: "2021-09-16T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ACS Nano*"
+publication: "*Journal of Materials Chemistry A*"
 publication_short: "*J. Mater. Chem. A*"
 
-abstract: Tunable gating graphene oxide (GO) membranes with high water permeance and precise molecular separation remain highly desired in smart nanofiltration devices. Herein, bio-inspired by the filtration function of renal glomerulus, we report a smart and high-performance graphene oxide membrane constructed via introducing positively charged polyethylenimine-grafted GO (GO-PEI) to negatively charged GO nanosheets. It was found that the additional GO-PEI component changed the surface charge, improved the hydrophilicity and enlarge the nanochannels. The glomerulus-inspired graphene oxide membrane (G-GOM) shows a water permeance up to 88.57 L m-2 h-1 bar-1, corresponding to a 4 times enhancement than that of conventional GO membrane due to the enlarged confined nanochannels. Meanwhile, owing to the electrostatic interaction, it can selectively remove positively charged methylene blue (MnB) at pH 12 and negatively charged methyl orange (MO) at pH 2, with a removal rate of over 96%. The high and cyclic water permeance and highly selective organic removal performance can be attributed to the synergic effect of controlled nanochannel size and tunable electrostatic interaction in responding to the environmental pH. This strategy provides an insight into designing pH-responsive gating membranes with tunable selectivity, representing a great advancement in smart nanofiltration with wide range of applications.
+abstract:Offshore oil spills, industrial oily wastewater, and domestic oil pollution are some of the most serious global challenges, and are leading environmental causes of morbidity and mortality. Nanofiber membrane materials manufactured via electrostatic spinning for oil/water separation have become one of the emerging technologies to treat oil/water emulsions. Here, we give a comprehensive review of current progress on electrospinning nanofibers for oil/water separation to promote the field’s advancement. Typical examples of hydrophilic–oleophobic, hydrophobic–oleophilic, and special wettability nanofiber membranes are systematically summarized. The effects of material selection, fiber production processes, and subsequent modifications on the membrane performance are compared and discussed. Potential shortcomings of various types of separation membranes and the potential solutions are provided. The review concludes with a summary and outlook on future directions and innovations in electrospinning nanofibers and membranes for oil/water separation.
 # Summary. An optional shortened abstract.
-summary: A research article published on *ACS Nano*.
+summary: A review article published on *Journal of Materials Chemistry A*.
 
 tags:
-- graphene oxide membrane
-- pH-responsive
-- gating regularity
-- nanofiltration
-- molecular separation
+- electrospinning
+- nanofibers
+- nanomembrane
+- oil/water separation
+- surface
+- wettability
 featured: true
 
 # links:
@@ -67,7 +68,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**ACS Nano**]()'
+  caption: 'Image credit: [**J. Mater. Chem. A**](https://doi.org/10.1039/D1TA05873H)'
   focal_point: ""
   preview_only: false
 
