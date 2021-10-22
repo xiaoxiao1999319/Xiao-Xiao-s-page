@@ -11,9 +11,9 @@ authors:
 - Y. Wang
 - C. Yan
 - N. Chen
-- Haitao Zhang*
-- Weiqing Yang*
-- Jun Chen*
+- H. Zhang*
+- W. Yang*
+- J. Chen*
 author_notes:
 - ""
 - ""
@@ -25,9 +25,9 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding Author"
-- "Corresponding Author"
-- "Corresponding Author"
+- ""
+- ""
+- ""
 date: "2021-05-21T00:00:00Z"
 doi: "https://doi.org/10.1002/smll.202100956"
 
