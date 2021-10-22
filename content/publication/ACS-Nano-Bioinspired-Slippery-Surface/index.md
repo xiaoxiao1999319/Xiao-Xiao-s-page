@@ -8,9 +8,9 @@ authors:
 - admin
 - Y. Zhang
 - X. Cui
-- Cunming Yu*
-- Moyuan Cao*
-- Lei Jiang
+- C. Yu*
+- M. Cao*
+- L. Jiang
 author_notes:
 - ""
 - ""
@@ -19,8 +19,8 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding Author"
-- "Corresponding Author"
+- ""
+- ""
 - ""
 date: "2018-01-18T00:00:00Z"
 doi: "https://doi.org/10.1021/acsnano.8b00192"
