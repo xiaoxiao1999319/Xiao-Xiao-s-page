@@ -44,7 +44,7 @@ publication_short: "*ACS Nano*"
 
 abstract: Tunable gating graphene oxide (GO) membranes with high water permeance and precise molecular separation remain highly desired in smart nanofiltration devices. Herein, bio-inspired by the filtration function of renal glomerulus, we report a smart and high-performance graphene oxide membrane constructed via introducing positively charged polyethylenimine-grafted GO (GO-PEI) to negatively charged GO nanosheets. It was found that the additional GO-PEI component changed the surface charge, improved the hydrophilicity and enlarge the nanochannels. The glomerulus-inspired graphene oxide membrane (G-GOM) shows a water permeance up to 88.57 L m-2 h-1 bar-1, corresponding to a 4 times enhancement than that of conventional GO membrane due to the enlarged confined nanochannels. Meanwhile, owing to the electrostatic interaction, it can selectively remove positively charged methylene blue (MnB) at pH 12 and negatively charged methyl orange (MO) at pH 2, with a removal rate of over 96%. The high and cyclic water permeance and highly selective organic removal performance can be attributed to the synergic effect of controlled nanochannel size and tunable electrostatic interaction in responding to the environmental pH. This strategy provides an insight into designing pH-responsive gating membranes with tunable selectivity, representing a great advancement in smart nanofiltration with wide range of applications.
 # Summary. An optional shortened abstract.
-summary: A research article published on *ACS Nano*.
+summary: A research article selected as the Cover Image of *ACS Nano*.
 
 tags:
 - graphene oxide membrane
