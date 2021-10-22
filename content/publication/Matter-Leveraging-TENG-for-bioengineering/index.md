@@ -6,14 +6,14 @@ authors:
 - admin
 - G. Chen
 - A. Nashalian
-- Jun Chen*
+- J. Chen*
 author_notes:
 - ""
 - ""
 - ""
 - ""
 - ""
-- "Corresponding Author"
+- ""
 date: "2021-03-21T00:00:00Z"
 doi: "https://doi.org/10.1016/j.matt.2021.01.006"
 
