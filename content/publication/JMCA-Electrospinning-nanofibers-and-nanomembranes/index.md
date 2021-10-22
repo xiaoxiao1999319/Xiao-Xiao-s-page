@@ -17,13 +17,13 @@ author_notes:
 - "Equal Contribution"
 - ""
 - ""
-- "Corresponding Author"
 - ""
 - ""
 - ""
 - ""
-- "Corresponding Author"
-- "Corresponding Author"
+- ""
+- ""
+- ""
 date: "2021-09-16T00:00:00Z"
 doi: "https://doi.org/10.1039/D1TA05873H"
 
@@ -68,7 +68,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**J. Mater. Chem. A**](https://doi.org/10.1039/D1TA05873H)'
+  caption: 'Image credit: [**J. Mater. Chem. A**]()'
   focal_point: ""
   preview_only: false
 
