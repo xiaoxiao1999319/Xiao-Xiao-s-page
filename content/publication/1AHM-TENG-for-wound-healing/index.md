@@ -40,7 +40,6 @@ tags:
 - personalized healthcare
 - point-of-care
 - triboelectric nanogenerators
-- wound healing
 featured: true
 
 # links:
