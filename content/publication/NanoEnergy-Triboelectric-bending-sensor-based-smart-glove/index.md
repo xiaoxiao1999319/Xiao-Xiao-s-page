@@ -32,16 +32,17 @@ publication_types: ["2"]
 publication: "*Nano Energy*"
 publication_short: "*Nano Energy*"
 
-abstract: As the world marches into the era of the Internet of Things (IoT), the practice of human health care is on the cusp of a revolution, driven by an unprecedented level of personalization enabled by a variety of wearable bioelectronics. A sustainable and wearable energy solution is highly desirable and remains a challenge. Here, we report a high-performance wearable electricity generation approach by manipulating the relative permittivity of a triboelectric nanogenerator (TENG). A compatible active carbon (AC)-doped polyvinylidene fluoride (AC@PVDF) composite film was invented with high relative permittivity and a specific surface area for wearable biomechanical energy harvesting. Compared with the pure PVDF, the 0.8% AC@PVDF film-based TENG obtained an enhancement in voltage, current, and power by 2.5, 3.5, and 9.8 times, respectively. This work reports a stable, cost-effective, and scalable approach to improve the performance of the triboelectric nanogenerator for wearable biomechanical energy harvesting, thus rendering a sustainable and pervasive energy solution for on-body electronics.
+abstract: Recent advances in human-machine interface (HMI) lead to a renewed interest in creating intuitive and immersive interaction. Here, we designed a simple-structured and high-resolution bending angle triboelectric sensor named bending-angle triboelectric nanogenerator (BA-TENG) to construct a glove-based multi-dimensional HMI. With the assistance of a customized print circuit board (PCB), the glove-based HMI exhibits high sensitivity and low crosstalk in real-time multi-channel finger motion sensing. The signal-to-noise ratio (SNR) is improved by 19.36 dB. By systematically extracting and analyzing the multi-dimensional signal features of the BA-TENG, intuitive multi-dimensional HMIs were realized for smart-home, advanced robotic control, and a virtual keyboard with user recognition functionality. The classification accuracy of the virtual keyboard for seven users reached 93.1% by leveraging the advanced machine learning technique. The proposed BA-TENG-based smart glove reveals its potential as a solution for minimalist-design and intuitive multi-dimensional HMI, promising in diversified areas, including the Internet of things (IoT), assistive technology, and intelligent recognition systems.
 # Summary. An optional shortened abstract.
 summary: A research article selected as the Cover Image of *Nano Energy*.
 
 tags:
-- wearable bioelectronics
-- biomechanical energy harvesting
-- triboelectrification
-- relative permittivity
-featured: true
+- Triboelectric nanogenerator
+- Angle sensor
+- Glove-based HMI
+- Machine learning recognition
+- Robotics
+featured: false
 
 # links:
 # - name: ""
@@ -58,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Nano Letters**](https://dx.doi.org/10.1021/acs.nanolett.0c01987)'
+  caption: 'Image credit: [**Nano Energy**](https://www.sciencedirect.com/science/article/pii/S2211285521005851)'
   focal_point: ""
   preview_only: false
 
