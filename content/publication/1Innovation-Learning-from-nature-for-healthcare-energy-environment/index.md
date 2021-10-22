@@ -6,8 +6,8 @@ authors:
 - Y. Lan
 - J. Chen*
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
+- ""
+- ""
 - ""
 - ""
 date: "2021-06-18T00:00:00Z"
