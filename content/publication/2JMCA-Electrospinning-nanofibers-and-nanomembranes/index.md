@@ -51,7 +51,7 @@ tags:
 - oil/water separation
 - surface
 - wettability
-featured: true
+featured: false
 
 # links:
 # - name: ""
