@@ -12,7 +12,7 @@ authors:
 - Z. Zhu
 - S. Xu
 - J. Tang*
-- Jun Chen*
+- J. Chen*
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
