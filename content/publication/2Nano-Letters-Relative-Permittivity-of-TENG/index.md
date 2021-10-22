@@ -12,8 +12,8 @@ authors:
 - X. Chu
 - T. Yang
 - W. Li
-- Weiqing Yang*
-- Jun Chen*
+- W. Yang*
+- J. Chen*
 author_notes:
 - "Equal Contribution"
 - "Equal Contribution"
@@ -26,8 +26,8 @@ author_notes:
 - ""
 - ""
 - ""
-- "Corresponding Author"
-- "Corresponding Author"
+- ""
+- ""
 date: "2020-06-20T00:00:00Z"
 doi: "https://dx.doi.org/10.1021/acs.nanolett.0c01987"
 
