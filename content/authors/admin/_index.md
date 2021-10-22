@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on wearable bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
+bio: My research focuses on bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
 
 interests:
 - Wearable bioelectronics
@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** is a Ph.D. student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.Eng. in Materials Science and Engineering from Beihang University. His current research focuses on wearable electronics, bio-inspired materials, as well as nanotechnology for energy and healthcare applications. He has already published **17** journal articles and **8** of them are as the first/co-first author in *Innovation*, *Trend Chem.*, *ACS Nano*, *Nano Lett.*, *Adv. Healthc. Mater*, *ChemComm*, and many others.
+**Xiao Xiao** is a Ph.D. student in the Department of Bioengineering at the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). Xiao obtained his B.Eng. in Materials Science and Engineering from Beihang University. His current research focuses on wearable electronics, bio-inspired materials, as well as nanotechnology for energy and healthcare applications. He has already published **2** journal articles and **11** of them are as the first/co-first author in *Science Advances*, *the Innovation*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters*, *Advanced Healthcare Materials*, and many others.
