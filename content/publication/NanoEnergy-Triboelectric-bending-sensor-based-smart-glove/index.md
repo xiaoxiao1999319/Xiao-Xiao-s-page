@@ -1,22 +1,14 @@
 ---
-title: "Manipulating Relative Permittivity for High-Performance Wearable Triboelectric Nanogenerator"
+title: "Triboelectric bending sensor based smart glove towards intuitive multi-dimensional human-machine interfaces"
 authors:
-- L. Jin
-- admin
-- W. Deng
-- A. Nashalian
-- D. He
-- V. Raveendran
-- C. Yan
-- H. Su
-- X. Chu
-- T. Yang
-- W. Li
-- Weiqing Yang*
-- Jun Chen*
+- Y. Luo
+- Z. Wang 
+- J. Wang
+- Admin
+- Q. Li
+- W. Ding*
+- H.Y. Fu*
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
 - ""
 - ""
 - ""
@@ -24,10 +16,6 @@ author_notes:
 - ""
 - ""
 - ""
-- ""
-- ""
-- "Corresponding Author"
-- "Corresponding Author"
 date: "2020-06-20T00:00:00Z"
 doi: "https://dx.doi.org/10.1021/acs.nanolett.0c01987"
 
