@@ -1,5 +1,5 @@
 ---
-title: "Triboelectric bending sensor based smart glove towards intuitive multi-dimensional human-machine interfaces"
+title: "Computational investigation of ultrasound induced electricity generation via a triboelectric nanogenerator"
 authors:
 - W. Deng
 - A. Libano
