@@ -51,12 +51,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/xiaoxiao1999319
-# - icon: linkedin
-#  icon_pack: fab
-#  link: https://www.linkedin.com/in/xiao-xiao99/
-#- icon: weixin
-#  icon_pack: fab
-#  link: "files/wechat.jpg"
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/xiao-xiao99/
+- icon: weixin
+  icon_pack: fab
+  link: "files/wechat.jpg"
 # - icon: qq
 #  icon_pack: fab
 #  link: "files/qq.jpg"
@@ -78,4 +78,4 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** is a Ph.D. student in the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). He has already published **25** journal articles and **12** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **7** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. His papers were cited over **300** times and his current H-index is **7** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ).
+**Xiao Xiao** is a Ph.D. student in the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). He has already published **25** journal articles and **13** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **8** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. His papers were cited over **300** times and his current H-index is **7** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ).
