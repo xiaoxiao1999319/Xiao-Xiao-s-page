@@ -60,7 +60,7 @@ publication_short: "*Sci. Adv.*"
 
 abstract: .
 # Summary. An optional shortened abstract.
-summary: A research article accepted by *Science Advances*. 
+summary: A research article featured on the Cover Image of *Science Advances*. 
 
 tags:
 - wearable bioelectronics
