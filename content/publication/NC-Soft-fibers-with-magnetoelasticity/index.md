@@ -23,7 +23,7 @@ author_notes:
 - ""
 - ""
 date: "2021-10-18T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1038/s41467-021-27066-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-10-18T00:00:00Z"
@@ -38,7 +38,7 @@ publication_types: ["2"]
 publication: "*Nature Communications*"
 publication_short: "*Nat. Commun.*"
 
-abstract:
+abstract: Magnetoelastic effect characterizes the change of materials’ magnetic properties under mechanical deformation, which is conventionally observed in some rigid metals or metal alloys. Here we show magnetoelastic effect can also exist in 1D soft fibers with stronger magnetomechanical coupling than that in traditional rigid counterparts. This effect is explained by a wavy chain model based on the magnetic dipole-dipole interaction and demagnetizing factor. To facilitate practical applications, we further invented a textile magnetoelastic generator (MEG), weaving the 1D soft fibers with conductive yarns to couple the observed magnetoelastic effect with magnetic induction, which paves a new way for biomechanical-to-electrical energy conversion with short-circuit current density of 0.63 mA cm−2, internal impedance of 180 Ω, and intrinsic waterproofness. Textile MEG was demonstrated to convert the arterial pulse into electrical signals with a low detection limit of 0.05 kPa,  even with heavy perspiration or in underwater situations without encapsulations.
 # Summary. An optional shortened abstract.
 summary: A research article accepted by *Nature Communications*.
 
