@@ -42,11 +42,11 @@ author_notes:
 - ""
 - ""
 - ""
-date: "2021-10-19T00:00:00Z"
-doi: ""
+date: "2021-12-01T00:00:00Z"
+doi: "https://www.science.org/doi/10.1126/sciadv.abl3742"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-10-19T00:00:00Z"
+publishDate: "2021-12-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -58,7 +58,7 @@ publication_types: ["2"]
 publication: "*Science Advances*"
 publication_short: "*Sci. Adv.*"
 
-abstract: .
+abstract: Electronic textiles (e-textiles), having the capability of interacting with the human body and surroundings, are changing our everyday life in fundamental and meaningful ways. Yet, the expansion of the field of e-textiles is still limited by the lack of stable and biocompatible power sources with aesthetic designs. Here, we report a rechargeable solid-state Zn/MnO2 fiber battery with stable cyclic performance exceeding 500 hours while maintaining 98.0% capacity after more than 1000 charging/recharging cycles. The mechanism of the high electrical and mechanical performance due to the graphene oxide–embedded polyvinyl alcohol hydrogel electrolytes was rationalized by Monte Carlo simulation and finite element analysis. With a collection of key features including thin, light weight, economic, and biocompatible as well as high energy density, the Zn/MnO2 fiber battery could seamlessly be integrated into a multifunctional on-body e-textile, which provides a stable power unit for continuous and simultaneous heart rate, temperature, humidity, and altitude monitoring.
 # Summary. An optional shortened abstract.
 summary: A research article featured on the Cover Image of *Science Advances*. 
 
@@ -85,7 +85,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Sci. Adv.**]()'
+  caption: 'Image credit: [**Sci. Adv.**](https://www.science.org/doi/10.1126/sciadv.abl3742)'
   focal_point: ""
   preview_only: false
 
