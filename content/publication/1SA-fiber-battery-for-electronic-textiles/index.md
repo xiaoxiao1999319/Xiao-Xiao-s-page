@@ -43,7 +43,7 @@ author_notes:
 - ""
 - ""
 date: "2021-12-01T00:00:00Z"
-doi: "https://www.science.org/doi/10.1126/sciadv.abl3742"
+doi: "10.1126/sciadv.abl3742"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-01T00:00:00Z"
