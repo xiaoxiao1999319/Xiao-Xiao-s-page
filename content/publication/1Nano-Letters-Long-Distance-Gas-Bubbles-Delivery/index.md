@@ -19,7 +19,7 @@ author_notes:
 - ""
 - ""
 date: "2021-02-18T00:00:00Z"
-doi: "https://doi.org/10.1021/acs.nanolett.0c04814"
+doi: "10.1021/acs.nanolett.0c04814"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-02-18T00:00:00Z"
