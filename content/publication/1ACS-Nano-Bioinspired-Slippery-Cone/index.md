@@ -19,7 +19,7 @@ author_notes:
 - ""
 - ""
 date: "2019-03-18T00:00:00Z"
-doi: "https://doi.org/10.1021/acsnano.8b08480"
+doi: "10.1021/acsnano.8b08480"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-03-18T00:00:00Z"
