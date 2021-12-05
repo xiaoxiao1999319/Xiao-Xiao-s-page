@@ -17,7 +17,7 @@ author_notes:
 - ""
 - ""
 date: "2021-07-14T00:00:00Z"
-doi: "https://doi.org/10.1002/adhm.202100975"
+doi: "10.1002/adhm.202100975"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-07-14T00:00:00Z"
