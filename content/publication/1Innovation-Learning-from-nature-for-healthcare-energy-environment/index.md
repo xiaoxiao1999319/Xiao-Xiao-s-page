@@ -11,7 +11,7 @@ author_notes:
 - ""
 - ""
 date: "2021-06-18T00:00:00Z"
-doi: "https://doi.org/10.1016/j.xinn.2021.100135"
+doi: "10.1016/j.xinn.2021.100135"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-06-18T00:00:00Z"
