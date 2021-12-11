@@ -43,12 +43,12 @@ publishDate: "2021-12-11T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Sensors and Actuators B: Chemical*"
+publication: "*Sensors and Actuators B Chemical*"
 publication_short: ""
 
 abstract: Electrode microfabrication technologies such as lithography and deposition have been widely applied in wearable electronics to boost interfacial coupling efficiency and device performance. However, a majority of these approaches are restricted by expensive and complicated processing techniques, as well as waste discharge. Here, helium plasma irradiation is employed to yield a molybdenum microstructured electrode, which is constructed into a flexible piezoresistive pressure sensor based on a Ti3C2Tx nanosheet-immersed polyurethane sponge. This electrode engineering strategy enables the smooth transition between sponge deformation and MXene interlamellar displacement, giving rise to high sensitivity (1.52 kPa−1) and good linearity (r2 = 0.9985) in a wide sensing range (0–100 kPa) with a response time of 226 ms for pressure detection. In addition, both the experimental characterization and finite element simulation confirm that the hierarchical structures modulated by pore size, plasma bias, and MXene concentration play a crucial role in improving the sensing performance. Furthermore, the as-developed flexible pressure sensor is demonstrated to measure human radial pulse, detect finger tapping, foot stomping, and perform object identification, revealing great feasibility in wearable biomonitoring and health assessment.
 # Summary. An optional shortened abstract.
-summary: A research article featured on the Cover Image of *Sensors and Actuators B: Chemical*.
+summary: A research article featured on the Cover Image of *Sensors and Actuators B Chemical*.
 
 tags:
 - wearable electronics
