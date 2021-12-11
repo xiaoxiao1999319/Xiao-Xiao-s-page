@@ -31,7 +31,7 @@ author_notes:
 - ""
 - ""
 date: "2021-12-11T00:00:00Z"
-doi: "https://doi.org/10.1002/smll.202100956"
+doi: "10.1016/j.snb.2021.131152"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-11T00:00:00Z"
@@ -51,7 +51,7 @@ abstract: Electrical impedance spectroscopy (EIS) has been recognized to charact
 summary: A research article featured on the Cover Image of *Sensors and Actuators B Chemical*.
 
 tags:
-- wearable electronics
+- implantable electronics
 featured: false
 
 # links:
@@ -69,7 +69,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Small methods**](https://doi.org/10.1002/smtd.202101051)'
+  caption: 'Image credit: [**Sensors and Actuators B Chemical**](https://doi.org/10.1016/j.snb.2021.131152)'
   focal_point: ""
   preview_only: false
 
