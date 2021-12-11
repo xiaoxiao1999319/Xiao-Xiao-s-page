@@ -1,21 +1,23 @@
 ---
 title: "3-Dimensional electrical impedance spectroscopy for in situ endoluminal mapping of metabolically active plaques"
 authors:
-- Q. Wei
-- G. Chen
-- H. Pan
-- Z. Ye
-- C. Au
-- C. Chen
-- X. Zhao
-- Y. Zhou
+- P. Abiri
+- Y. Luo
+- Z. Huang
+- Q. Cui
+- S. Duarte-Vogel
+- M. Roustaei
+- C. Chang
 - Admin
-- H. Tai
-- Y. Jiang
-- G. Xie
-- Y. Su
-- J. Chen*
+- R. Packard
+- S. Cavallero
+- R. Ebrahimi
+- P. Benharash
+- J. Chen
+- Y. Tai
+- T. Hsiai*
 author_notes:
+- ""
 - ""
 - ""
 - ""
