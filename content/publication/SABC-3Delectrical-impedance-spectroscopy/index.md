@@ -1,5 +1,5 @@
 ---
-title: "MXene-Sponge Based High-Performance Piezoresistive Sensor for Wearable Biomonitoring and Real-Time Tactile Sensing"
+title: "3-Dimensional electrical impedance spectroscopy for in situ endoluminal mapping of metabolically active plaques"
 authors:
 - Q. Wei
 - G. Chen
