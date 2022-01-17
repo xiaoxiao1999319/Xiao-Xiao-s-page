@@ -79,3 +79,4 @@ user_groups:
 ---
 
 **Xiao Xiao** is a Ph.D. student in the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). He has already published **33** journal articles and **17** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Advanced Materials*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **10** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. With a H-index **11** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and a RG Score **30.28** on [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited near **500** times.
+![Citations](https://citations.njzjz.win/10.1038/s41467-020-19497-z)
