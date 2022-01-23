@@ -35,7 +35,7 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-   title = "*Science Advances* front cover"
+   title = "On the *Science Advances* front cover"
    content = "Ultrathin rechargeable fiber batteries integrates into textiles"
    align = "left"
    cta_label = "Get to know"
@@ -43,11 +43,11 @@ height = "400px"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#555"  # An HTML color value.
-   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
  [[item]]
-   title = "*Chemical Reviews* front cover"
+   title = "On the *Chemical Reviews* front cover"
    content = "Electronic Textiles for Point-of Care Systems"
    align = "right"
    cta_label = "Get to read"
@@ -55,6 +55,6 @@ height = "400px"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
-   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
