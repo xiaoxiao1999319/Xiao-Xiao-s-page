@@ -43,7 +43,7 @@ height = "350px"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#555"  # An HTML color value.
-   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = IEEE.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
  [[item]]
@@ -55,7 +55,7 @@ height = "350px"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
-   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  [[item]]
@@ -67,18 +67,18 @@ height = "350px"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
-   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  [[item]]
    title = "On *Trends in Chemistry* Cover:"
    content = "Wearable triboelectric nanogenerators for therapeutics"
-   align = "left"
+   align = "right"
    cta_label = "Read it"
    cta_url = " https://xiao-xiao.tech/publication/1trendchem-wteng-for-therapy/"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
-   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
