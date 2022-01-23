@@ -43,7 +43,7 @@ height = "400px"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#555"  # An HTML color value.
-   overlay_img = "ucla.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
  [[item]]
@@ -51,7 +51,7 @@ height = "400px"
    content = "Electronic Textiles for Point-of Care Systems"
    align = "right"
    cta_label = "Get to read"
-   cta_url = "https://xiao-xiao.tech/post/20200621bioinspired-idea/"
+   cta_url = "https://doi.org/10.1021/acs.chemrev.1c00502"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
