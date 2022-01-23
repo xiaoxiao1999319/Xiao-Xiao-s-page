@@ -16,8 +16,8 @@ height = "400px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = ""
-  content = "Welcome to Xiao Xiao's website!"
+  title = "Welcome to Xiao Xiao's website!"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -34,27 +34,27 @@ height = "400px"
   # cta_icon_pack = "fas"
   # cta_icon = "graduation-cap"
 
-# [[item]]
-#   title = "Biomechanical energy harvester"
-#   content = "*Nano Letters*: a high-performance wearable TENG"
-#   align = "left"
-#   cta_label = "Get to know"
-#   cta_url = "https://xiao-xiao.tech/publication/relative-permittivity-of-teng/"
-#   cta_icon_pack = "fas"
-#   cta_icon = "graduation-cap"
-#   overlay_color = "#555"  # An HTML color value.
-#   overlay_img = "ucla.jpg"  # Image path relative to your `static/img/` folder.
-#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+[[item]]
+   title = "*Science Advances* front cover"
+   content = "Ultrathin rechargeable fiber batteries integrates into textiles"
+   align = "left"
+   cta_label = "Get to know"
+   cta_url = "https://xiao-xiao.tech/publication/1sa-fiber-battery-for-electronic-textiles/"
+   cta_icon_pack = "fas"
+   cta_icon = "graduation-cap"
+   overlay_color = "#555"  # An HTML color value.
+   overlay_img = "ucla.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
-# [[item]]
-#   title = "Learning From Nature"
-#   content = "A post written for *Nature*’s 150th anniversary."
-#   align = "right"
-#   cta_label = "Get to read"
-#   cta_url = "https://xiao-xiao.tech/post/20200621bioinspired-idea/"
-#   cta_icon_pack = "fas"
-#   cta_icon = "graduation-cap"
-#   overlay_color = "#333"  # An HTML color value.
-#   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
-#   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+ [[item]]
+   title = "*Chemical Reviews* front cover"
+   content = "Electronic Textiles for Point-of Care Systems"
+   align = "right"
+   cta_label = "Get to read"
+   cta_url = "https://xiao-xiao.tech/post/20200621bioinspired-idea/"
+   cta_icon_pack = "fas"
+   cta_icon = "graduation-cap"
+   overlay_color = "#333"  # An HTML color value.
+   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
