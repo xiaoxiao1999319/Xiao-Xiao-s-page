@@ -35,10 +35,10 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-   title = "On the *Science Advances* front cover"
+   title = "On the *Science Advances* Front Cover:"
    content = "Ultrathin rechargeable fiber batteries integrates into textiles"
    align = "left"
-   cta_label = "Get to know"
+   cta_label = "Read it"
    cta_url = "https://xiao-xiao.tech/publication/1sa-fiber-battery-for-electronic-textiles/"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
@@ -47,14 +47,26 @@ height = "400px"
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
  [[item]]
-   title = "On the *Chemical Reviews* front cover"
-   content = "Electronic Textiles for Point-of Care Systems"
+   title = "On the *Chemical Reviews* Front Cover:"
+   content = "Electronic textiles for wearable point-of-care systems"
    align = "right"
-   cta_label = "Get to read"
+   cta_label = "Read it"
    cta_url = "https://doi.org/10.1021/acs.chemrev.1c00502"
    cta_icon_pack = "fas"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
    overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+ [[item]]
+   title = "On the *Advanced Materials* Front Cover:"
+   content = "Wearable pressure sensors for pulse wave monitoring"
+   align = "left"
+   cta_label = "Read it"
+   cta_url = " https://doi.org/10.1002/adma.202109357"
+   cta_icon_pack = "fas"
+   cta_icon = "graduation-cap"
+   overlay_color = "#333"  # An HTML color value.
+   overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
