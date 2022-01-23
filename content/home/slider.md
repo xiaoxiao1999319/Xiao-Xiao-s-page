@@ -11,7 +11,7 @@ interval = 5000
 
 # Slide height (optional).
 # E.g. `600px` for 500 pixels or `calc(100vh - 70px)` for full screen.
-height = "400px"
+height = "350px"
 
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
@@ -35,7 +35,7 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-   title = "On the *Science Advances* Cover:"
+   title = "On *Science Advances* Cover:"
    content = "Ultrathin rechargeable fiber batteries integrates into textiles"
    align = "left"
    cta_label = "Read it"
@@ -47,7 +47,7 @@ height = "400px"
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
  [[item]]
-   title = "On the *Chemical Reviews* Cover:"
+   title = "On *Chemical Reviews* Cover:"
    content = "Electronic textiles for wearable point-of-care systems"
    align = "right"
    cta_label = "Read it"
@@ -59,7 +59,7 @@ height = "400px"
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  [[item]]
-   title = "On the *Advanced Materials* Cover:"
+   title = "On *Advanced Materials* Cover:"
    content = "Wearable pressure sensors for pulse wave monitoring"
    align = "left"
    cta_label = "Read it"
@@ -71,7 +71,7 @@ height = "400px"
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  [[item]]
-   title = "On the *Trends in Chemistry* Cover:"
+   title = "On *Trends in Chemistry* Cover:"
    content = "Wearable triboelectric nanogenerators for therapeutics"
    align = "left"
    cta_label = "Read it"
