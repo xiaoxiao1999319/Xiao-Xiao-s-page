@@ -35,7 +35,7 @@ height = "400px"
   # cta_icon = "graduation-cap"
 
 [[item]]
-   title = "On the *Science Advances* Front Cover:"
+   title = "On the *Science Advances* Cover:"
    content = "Ultrathin rechargeable fiber batteries integrates into textiles"
    align = "left"
    cta_label = "Read it"
@@ -47,7 +47,7 @@ height = "400px"
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
  
  [[item]]
-   title = "On the *Chemical Reviews* Front Cover:"
+   title = "On the *Chemical Reviews* Cover:"
    content = "Electronic textiles for wearable point-of-care systems"
    align = "right"
    cta_label = "Read it"
@@ -59,7 +59,7 @@ height = "400px"
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  [[item]]
-   title = "On the *Advanced Materials* Front Cover:"
+   title = "On the *Advanced Materials* Cover:"
    content = "Wearable pressure sensors for pulse wave monitoring"
    align = "left"
    cta_label = "Read it"
@@ -68,5 +68,17 @@ height = "400px"
    cta_icon = "graduation-cap"
    overlay_color = "#333"  # An HTML color value.
    overlay_img = "ucla1.jpg"  # Image path relative to your `static/img/` folder.
+   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+
+ [[item]]
+   title = "On the *Trends in Chemistry* Cover:"
+   content = "Wearable triboelectric nanogenerators for therapeutics"
+   align = "left"
+   cta_label = "Read it"
+   cta_url = " https://xiao-xiao.tech/publication/1trendchem-wteng-for-therapy/"
+   cta_icon_pack = "fas"
+   cta_icon = "graduation-cap"
+   overlay_color = "#333"  # An HTML color value.
+   overlay_img = "ucla2.jpg"  # Image path relative to your `static/img/` folder.
    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
