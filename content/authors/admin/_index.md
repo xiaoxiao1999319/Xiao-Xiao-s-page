@@ -18,7 +18,7 @@ organizations:
   url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
+bio: My research focuses on bioelectronics and bioinspired materials for energy and healthcare applications.
 
 interests:
 - bioelectronics
@@ -80,6 +80,6 @@ user_groups:
 
 **Xiao Xiao** conducts research in the Wearable Bioelectronics Research Group. He has already published **34** journal articles and **17** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Advanced Materials*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **11** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **11** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and RG Score **31.23** on [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited near **500** times.
 
-Beyond research, Xiao is an **independent reviewer** for many scientific journals including *Biosensors and Bioelectronics*, *Nano Energy*, *Nanoscale Advances*, *Advanced Fiber Materials*. **Peer review invitations from other journals and conferences are welcome!**
+Beyond research, Xiao is an **independent reviewer** for many scientific journals including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Nanoscale Advances*, *Advanced Fiber Materials*. **Peer review invitations from other journals and conferences are welcome!**
 
 Email: xiaoxiao1999@ucla.edu
