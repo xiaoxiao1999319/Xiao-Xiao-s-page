@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD researcher
+role: PhD
 
 # Organizations/Affiliations
 organizations:
-- name: UCLA Bioengineering
-  url: "https://www.bioeng.ucla.edu/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on bioelectronics and bioinspired materials for energy and healthcare applications.
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D.
-    institution: University of California, Los Angeles
+    institution:
     year: 
   - course: B.Eng.
     institution: Beihang University
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:xiaoxiao1999@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:xiao.xiao@u.nus.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=rC2ECMoAAAAJ
@@ -78,8 +78,8 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** conducts research in the Wearable Bioelectronics Research Group. He has already published **34** journal articles and **17** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Advanced Materials*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **11** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **11** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and RG Score **31.53** on [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **500** times.
+**Xiao Xiao** conducts research in the Wearable Bioelectronics Research Group. He has already published **36** journal articles and **18** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Advanced Materials*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **11** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **11** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and RG Score **31.56** on [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **500** times.
 
-Beyond research, Xiao is an **independent reviewer** for many scientific journals including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Sensors*. **Peer review invitations from other journals and conferences are welcome!**
+Beyond research, Xiao is an **independent reviewer** for many scientific journals and conferences including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Sensors*. *IEEE Wireless Power Week Conference*. **Peer review invitations from other journals and conferences are welcome!**
 
-Email: xiaoxiao1999@ucla.edu
+Email: xiao.xiao@u.nus.edu
