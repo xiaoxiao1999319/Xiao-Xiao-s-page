@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D.
-    institution:
+    institution: UCLA and NUS
     year: 
   - course: B.Eng.
     institution: Beihang University
@@ -82,4 +82,4 @@ user_groups:
 
 Beyond research, Xiao is an **independent reviewer** for many scientific journals and conferences including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Sensors*. *IEEE Wireless Power Week Conference*. **Peer review invitations from other journals and conferences are welcome!**
 
-Email: xiao.xiao@u.nus.edu
+Email: xiaoxiao1999@ucla.edu
