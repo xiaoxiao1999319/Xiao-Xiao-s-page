@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD
+role: Bioengineer
 
 # Organizations/Affiliations
 organizations:
@@ -80,6 +80,6 @@ user_groups:
 
 **Xiao Xiao** conducts research in the Bioelectronics Research Group. He has already published **36** journal articles and **18** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Advanced Materials*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters* and many others. Of note,  **11** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **11** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and RG Score **31.56** on [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **500** times.
 
-Beyond research, Xiao is an **independent reviewer** for many scientific journals and conferences including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Sensors*. *IEEE Wireless Power Week Conference*. **Peer review invitations from other journals and conferences are welcome!**
+Beyond research, Xiao is an **independent reviewer** for many scientific journals and conferences including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Sensors*. *IEEE Wireless Power Week Conference*. **Peer review invitations from journals and conferences are welcome!**
 
-Email: xiaoxiao1999@ucla.edu
+Email: xiaoxiao1999@ucla.edu or xiao.xiao@u.nus.edu
