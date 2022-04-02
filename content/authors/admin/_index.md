@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: Ph.D.
-    institution: UCLA
+    institution: UCLA and NUS
     year: 
   - course: B.Eng.
-    institution: Beihang University
+    institution: BUAA
     year: 
 
 # Social/Academic Networking
@@ -80,6 +80,6 @@ user_groups:
 
 **Xiao Xiao** has already published **41** journal articles and **21** of them are as the first/co-first/corresponding author in *Science Advances*, *Chemical Reviews*, *Advanced Materials*, *Trends in Chemistry*, *Matter*, *ACS Nano*, *Nano Letters* and many others. Of note,  **11** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **13** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and RG Score **32.32** on [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **600** times.
 
-Beyond research, Xiao serve as a Guest Editor for *Micromachines*. He is an **independent reviewer** for many scientific journals and conferences including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Digital Signal Processing*, *Sensors*, *Crystals*, *IEEE Wireless Power Week Conference*. **Peer review invitations from journals and conferences are welcome!**
+Beyond research, Xiao serves as a Guest Editor for [Micromachines](https://www.mdpi.com/journal/micromachines/special_issues/Bioelectronics_Wearable_Devices_Sensing_Signal_Processing_and_Powering). He is an **independent reviewer** for many scientific journals and conferences including *Biosensors and Bioelectronics*, *Nano Energy*, *Bioactive Materials*, *Journal of Nanobiotechnology*, *Nanoscale*, *Nanoscale Advances*, *Advanced Fiber Materials*, *Digital Signal Processing*, *Sensors*, *Crystals*, *IEEE Wireless Power Week Conference*. **Peer review invitations from journals and conferences are welcome!**
 
-Email: xiao.xiao@u.nus.edu or xiaoxiao1999@ucla.edu
+Email: xiaoxiao1999@ucla.edu
