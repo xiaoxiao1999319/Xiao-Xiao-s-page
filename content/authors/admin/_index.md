@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** has already published **52** journal articles and **28** of them are as the first/co-first/corresponding author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *The Innovations*, *Advanced Materials*, *Matter*, *ACS Nano*, *Nano Letters* and many others. Of note,  **14** of those publications are selected as journal cover art, and **3** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **17** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **900** times.
+**Xiao Xiao** has already published **52** journal articles and **28** of them are as the first/co-first/corresponding author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *The Innovations*, *Advanced Materials*, *Matter*, *ACS Nano*, *Nano Letters* and many others. Of note,  **14** of those publications are selected as journal cover art, and **3** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **18** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited near **1000** times.
 
 Xiao serves as a **Topic Editor** for [Frontiers in Chemistry](https://www.frontiersin.org/research-topics/43142/reviews-in-chemistry) (IF 5.5) and a **Guest Editor** for [Micromachines](https://www.mdpi.com/journal/micromachines/special_issues/Bioelectronics_Wearable_Devices_Sensing_Signal_Processing_and_Powering) (IF 3.5). Manuscript contributions are welcome！
 
