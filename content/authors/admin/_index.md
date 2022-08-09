@@ -23,7 +23,7 @@ bio: My research focuses on bioelectronics and bioinspired materials for energy 
 interests:
 - bioelectronics
 - bioengineering
-- bionics
+- biorobotics
 
 education:
   courses:
