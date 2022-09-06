@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Bioengineer
+role: researcher
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio: My research focuses on bioelectronics and bioinspired materials for energy 
 
 interests:
 - bioelectronics
-- bioengineering
-- biorobotics
+- energy harvesting
+- flexible batteries
 
 education:
   courses:
@@ -78,10 +78,8 @@ user_groups:
 - Visitors
 ---
 
-**Xiao Xiao** has already published **52** journal articles and **28** of them are as the first/co-first/corresponding author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *The Innovations*, *Advanced Materials*, *Matter*, *ACS Nano*, *Nano Letters* and many others. Of note,  **14** of those publications are selected as journal cover art, and **3** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **18** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **1000** times.
+**Xiao Xiao**'s unique research focuses on the intersection of energy harvesting, flexible batteries, and wireless technologies to develop solutions for next-generation IoT devices. He has already published over **60** journal articles and half of them are as the first/co-first/corresponding author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *The Innovations*, *Advanced Materials*, *Matter*, *ACS Nano*, *Nano Letters* and many others. Of note, **14** of those publications are selected as journal cover art, and **3** are Highly Cited Paper and Hot Paper by the Web of Science. With H-index **20** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149), his papers were cited over **1100** times.
 
-Xiao serves as a **Topic Editor** for [Frontiers in Chemistry](https://www.frontiersin.org/research-topics/43142/reviews-in-chemistry) (IF 5.5) and a **Guest Editor** for [Micromachines](https://www.mdpi.com/journal/micromachines/special_issues/Bioelectronics_Wearable_Devices_Sensing_Signal_Processing_and_Powering) (IF 3.5). Manuscript contributions are welcome！
-
-Xiao serves as an **independent reviewer** for over **20** journals and conferences, including *Biosensors & Bioelectronics, Nano Energy, Bioactive Materials, Journal of Nanobiotechnology, ACS Applied Materials & Interfaces, Nanoscale, Nanoscale Advances, Sensors, Polymers, Crystals, Micromachines, Advanced Fiber Materials, Digital Signal Processing, Exploration, Journal of Neural Engineering, IEEE Journal of Flexible Electronics, IEEE Wireless Power Conference*.
+Xiao serves as a **Topic Editor** for [Frontiers in Chemistry](https://www.frontiersin.org/research-topics/43142/reviews-in-chemistry) (IF 5.5) and a **Guest Editor** for [Micromachines](https://www.mdpi.com/journal/micromachines/special_issues/Bioelectronics_Wearable_Devices_Sensing_Signal_Processing_and_Powering) (IF 3.5). He also serves as an **independent reviewer** for over **20** journals and conferences, including *Biosensors & Bioelectronics, Nano Energy, Bioactive Materials, Journal of Nanobiotechnology, ACS Applied Materials & Interfaces, Nanoscale, Nanoscale Advances, Sensors, Polymers, Crystals, Micromachines, Advanced Fiber Materials, Digital Signal Processing, Exploration, Journal of Neural Engineering, IEEE Journal of Flexible Electronics, IEEE Wireless Power Conference*.
 
 Email: xiaoxiao1999@ucla.edu or xiao.xiao@u.nus.edu
