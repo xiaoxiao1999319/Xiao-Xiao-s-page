@@ -24,6 +24,7 @@ interests:
 - bioelectronics
 - energy harvesting
 - flexible batteries
+- wireless technologies
 
 education:
   courses:
@@ -82,4 +83,4 @@ user_groups:
 
 Xiao serves as a **Topic Editor** for [Frontiers in Chemistry](https://www.frontiersin.org/research-topics/43142/reviews-in-chemistry) (IF 5.5) and a **Guest Editor** for [Micromachines](https://www.mdpi.com/journal/micromachines/special_issues/Bioelectronics_Wearable_Devices_Sensing_Signal_Processing_and_Powering) (IF 3.5). He also serves as an **independent reviewer** for over **20** journals and conferences, including *Biosensors & Bioelectronics, Nano Energy, Bioactive Materials, Journal of Nanobiotechnology, ACS Applied Materials & Interfaces, Nanoscale, Nanoscale Advances, Sensors, Polymers, Crystals, Micromachines, Advanced Fiber Materials, Digital Signal Processing, Exploration, Journal of Neural Engineering, IEEE Journal of Flexible Electronics, IEEE Wireless Power Conference*.
 
-Email: xiaoxiao1999@ucla.edu or xiao.xiao@u.nus.edu
+Email: xiaoxiao1999@ucla.edu
