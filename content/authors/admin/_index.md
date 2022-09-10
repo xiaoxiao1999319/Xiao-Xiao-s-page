@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: Ph.D.
+  - course: Graduate
     institution: UCLA and NUS
     year: 
-  - course: B.Eng.
+  - course: Undergraduate
     institution: BUAA
     year: 
 
