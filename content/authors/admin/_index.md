@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Xiao
+title: Xiao Xiao(肖潇)
 
 # Username (this should match the folder name)
 authors:
