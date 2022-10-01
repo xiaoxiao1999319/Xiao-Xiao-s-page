@@ -29,7 +29,7 @@ interests:
 education:
   courses:
   - course: Graduate
-    institution: UCLA and NUS
+    institution: NUS and UCLA
     year: 
   - course: Undergraduate
     institution: BUAA
