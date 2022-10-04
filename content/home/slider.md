@@ -16,8 +16,8 @@ height = "330px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "Welcome to Xiao Xiao's website!"
-  content = "My unique research focuses on the intersection of **flexible batteries**, **energy harvesting/delivery**, and **sensing technologies** to develop solutions for next-generation **bioelectronics**. "
+  title = "Welcome to Xiao's website!"
+  content = "My research focuses on the intersection of **flexible batteries**, **energy harvesting/delivery**, and **sensing technologies** to develop solutions for next-generation **bioelectronics**. "
   align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
