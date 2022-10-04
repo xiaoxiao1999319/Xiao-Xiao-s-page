@@ -17,8 +17,8 @@ height = "330px"
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Welcome to Xiao Xiao's website!"
-  content = "欢迎来到 **肖潇** 的个人主页!"
-  align = "center"  # Choose `center`, `left`, or `right`.
+  content = "My unique research focuses on the intersection of **flexible batteries**, **energy harvesting/delivery**, and **sensing technologies** to develop solutions for next-generation **bioelectronics**. "
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
