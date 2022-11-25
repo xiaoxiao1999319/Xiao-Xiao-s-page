@@ -45,7 +45,7 @@ social:
   link: "mailto:xiao.xiao@u.nus.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=zh-CN&user=rC2ECMoAAAAJ
+  link: https://scholar.google.com/citations?user=rC2ECMoAAAAJ
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Xiao_Xiao149
