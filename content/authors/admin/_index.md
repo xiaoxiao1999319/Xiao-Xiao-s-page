@@ -79,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-I am an **Electrical and Computer Engineering** researcher with **Bioengineering** and **Materials Science** backgrounds. I have licensed **1** patent, published **1** book chapter and **62** journal articles which have received over **1,400** citations globally, and in **31** of them, I am the first/co-first/corresponding author. Of note, **15** of those publications are featured on the journal cover arts, such as *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *Advanced Materials*, *ACS Nano*, and *Nano Letters*. My H-index is **21** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149).
+I am an **Electrical and Computer Engineering** researcher with **Bioengineering** and **Materials Science** backgrounds. 
 
----
+I have licensed **1** patent, published **1** book chapter and **62** journal articles which have received over **1,400** citations globally, and in **31** of them, I am the first/co-first/corresponding author. Of note, **15** of those publications are featured on the journal cover arts, such as *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *Advanced Materials*, *ACS Nano*, and *Nano Letters*. My H-index is **21** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149).
