@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xiao Xiao(肖潇)
+title: Xiao Xiao (肖潇)
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: UCLA Bioengineering
+  url: "https://www.bioeng.ucla.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research focuses on bioelectronics for energy and healthcare applications.
+bio: My research focuses on bioelectronics, bioinspired materials, as well as nanotechnology for energy and healthcare applications.
 
 interests:
 - bioelectronics
-- energy harvesting
-- flexible batteries
-- wireless technologies
+- bioengineering
+- bionics
 
 education:
   courses:
-  - course: Graduate
-    institution: NUS and UCLA
-    year: 
-  - course: Undergraduate
-    institution: BUAA
-    year: 
+  - course: Ph.D. student
+    institution: University of California, Los Angeles
+    year: 2020 ~ Now
+  - course: B.Eng.
+    institution: Beihang University
+    year: 2016 ~ 2020
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,22 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:xiao.xiao@u.nus.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:xiaoxiao1999@ucla.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=rC2ECMoAAAAJ
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Xiao_Xiao149
+  link: https://scholar.google.com/citations?hl=zh-CN&user=rC2ECMoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/xiaoxiao1999319
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/xiao-xiao99/
-- icon: weixin
-  icon_pack: fab
-  link: "files/wechat.jpg"
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/xiao-xiao99/
+#- icon: weixin
+#  icon_pack: fab
+#  link: "files/wechat.jpg"
 # - icon: qq
 #  icon_pack: fab
 #  link: "files/qq.jpg"
@@ -79,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I am an **Electrical and Computer Engineering** researcher with **Bioengineering** and **Materials Science** backgrounds. 
-
-I have licensed **1** patent, published **1** book chapter and **62** journal articles which have received over **1,500** citations globally, and in **31** of them, I am the first/co-first/corresponding author. Of note, **15** of those publications are featured on the journal cover arts, such as *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *Advanced Materials*, *ACS Nano*, and *Nano Letters*. My H-index is **22** on [Google Scholar](https://scholar.google.com/citations?user=rC2ECMoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Xiao_Xiao149). 
+**Xiao Xiao** is a Ph.D. student in the University of California, Los Angeles. At UCLA, he conducts research under the supervision of Professor Jun Chen in the [Wearable Bioelectronics Research Group](https://www.junchenlab.com). He has already published **21** journal articles and **11** of them are as the first/co-first author in *Science Advances*, *Chemical Reviews*, *Trends in Chemistry*, *ACS Nano*, *Nano Letters*, *Advanced Healthcare Materials*, and many others. Of note, **7** of those publications are selected as journal cover art, and **2** are Highly Cited Paper and Hot Paper by the Web of Science. 
